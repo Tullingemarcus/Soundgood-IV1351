@@ -1,0 +1,180 @@
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (5,NULL,20),
+  (48,NULL,39),
+  (52,NULL,13),
+  (55,NULL,17),
+  (46,27,NULL),
+  (60,NULL,52),
+  (54,NULL,97),
+  (46,NULL,16),
+  (92,5,NULL),
+  (26,NULL,4),
+  (44,NULL,78);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (19,NULL,18),
+  (86,38,NULL),
+  (55,NULL,18),
+  (49,24,NULL),
+  (30,19,NULL),
+  (56,47,NULL),
+  (36,NULL,16),
+  (1,45,NULL),
+  (10,13,NULL),
+  (25,28,NULL),
+  (95,NULL,89);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (64,NULL,68),
+  (38,NULL,58),
+  (19,NULL,27),
+  (96,NULL,94),
+  (67,NULL,58),
+  (56,NULL,17),
+  (36,NULL,14),
+  (81,NULL,16),
+  (29,NULL,46),
+  (32,34,NULL),
+  (15,NULL,28);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (87,37,NULL),
+  (59,44,NULL),
+  (56,NULL,48),
+  (53,27,NULL),
+  (16,21,NULL),
+  (29,7,NULL),
+  (58,21,NULL),
+  (74,38,NULL),
+  (4,49,NULL),
+  (80,NULL,72),
+  (61,NULL,87);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (55,3,NULL),
+  (43,NULL,84),
+  (80,3,NULL),
+  (33,NULL,100),
+  (26,10,NULL),
+  (96,NULL,31);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (30,NULL,68),
+  (39,7,NULL),
+  (65,NULL,74),
+  (64,33,NULL),
+  (71,NULL,7),
+  (22,37,NULL),
+  (98,NULL,8),
+  (40,46,NULL),
+  (67,NULL,60),
+  (50,18,NULL),
+  (69,NULL,47);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (63,46,NULL),
+  (85,NULL,25),
+  (41,33,NULL),
+  (73,NULL,38),
+  (89,4,NULL),
+  (57,28,NULL),
+  (42,NULL,42),
+  (28,8,NULL),
+  (34,32,NULL),
+  (3,30,NULL),
+  (90,2,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (86,NULL,62),
+  (62,NULL,73),
+  (59,NULL,47),
+  (11,NULL,5),
+  (1,NULL,31),
+  (23,NULL,31),
+  (64,NULL,79),
+  (2,NULL,93),
+  (81,NULL,56),
+  (38,NULL,67),
+  (51,NULL,48);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (40,NULL,25),
+  (80,NULL,16),
+  (44,NULL,98),
+  (17,25,NULL),
+  (5,44,NULL),
+  (51,49,NULL),
+  (43,28,NULL),
+  (7,2,NULL),
+  (55,NULL,77),
+  (52,16,NULL),
+  (26,25,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (48,NULL,90),
+  (16,45,NULL),
+  (21,NULL,80),
+  (16,34,NULL),
+  (37,18,NULL),
+  (17,32,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (35,NULL,35),
+  (93,29,NULL),
+  (78,NULL,65),
+  (21,41,NULL),
+  (76,41,NULL),
+  (92,NULL,81),
+  (53,12,NULL),
+  (9,29,NULL),
+  (96,NULL,2),
+  (11,NULL,12),
+  (51,NULL,13);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (22,NULL,25),
+  (80,4,NULL),
+  (60,34,NULL),
+  (96,40,NULL),
+  (36,17,NULL),
+  (36,26,NULL),
+  (48,NULL,75),
+  (67,NULL,21),
+  (37,NULL,36),
+  (41,NULL,57),
+  (45,NULL,58);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (3,5,NULL),
+  (57,31,NULL),
+  (33,28,NULL),
+  (78,46,NULL),
+  (33,NULL,80),
+  (88,NULL,96),
+  (2,NULL,10),
+  (48,NULL,67),
+  (63,NULL,55),
+  (3,29,NULL),
+  (8,5,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (50,11,17),
+  (70,NULL,66),
+  (31,24,NULL),
+  (92,27,NULL),
+  (62,NULL,55),
+  (60,34,NULL),
+  (66,NULL,67),
+  (62,NULL,19),
+  (44,43,NULL),
+  (15,42,NULL),
+  (79,2,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (8,NULL,20),
+  (33,NULL,28),
+  (16,NULL,6),
+  (19,10,NULL),
+  (65,NULL,31),
+  (18,NULL,34);

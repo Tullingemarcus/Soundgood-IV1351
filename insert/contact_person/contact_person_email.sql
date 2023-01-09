@@ -1,0 +1,120 @@
+INSERT INTO contact_person_email (contact_person_email)
+VALUES
+  ('non.vestibulum@google.ca'),
+  ('praesent.eu.dui@protonmail.ca'),
+  ('faucibus@protonmail.org'),
+  ('sed@protonmail.net'),
+  ('ac.nulla@hotmail.net'),
+  ('suspendisse.aliquet@aol.net'),
+  ('proin.nisl@yahoo.edu'),
+  ('curabitur.sed@aol.net'),
+  ('non@outlook.couk'),
+  ('est.ac.facilisis@hotmail.couk'),
+  ('felis.adipiscing@outlook.org');
+INSERT INTO contact_person_email (contact_person_email)
+VALUES
+  ('ac.turpis@aol.org'),
+  ('a.scelerisque@outlook.edu'),
+  ('aliquet@hotmail.com'),
+  ('sed.facilisis@outlook.edu'),
+  ('commodo.tincidunt@google.couk'),
+  ('ultrices.sit@protonmail.net'),
+  ('vestibulum.lorem@google.org'),
+  ('dapibus@yahoo.org'),
+  ('vestibulum.nec@outlook.couk'),
+  ('non.enim@hotmail.com'),
+  ('donec@yahoo.org');
+INSERT INTO contact_person_email (contact_person_email)
+VALUES
+  ('sed@protonmail.edu'),
+  ('aliquet.nec@aol.com'),
+  ('in.molestie@outlook.ca'),
+  ('nulla.integer@hotmail.ca'),
+  ('aliquam.arcu.aliquam@yahoo.couk'),
+  ('dui.nec@icloud.edu'),
+  ('sed.molestie.sed@google.com'),
+  ('consequat@outlook.ca'),
+  ('mollis.non.cursus@icloud.couk'),
+  ('pede.suspendisse.dui@outlook.com'),
+  ('integer@yahoo.couk');
+INSERT INTO contact_person_email (contact_person_email)
+VALUES
+  ('ipsum.cursus@icloud.com'),
+  ('ac.turpis.egestas@aol.org'),
+  ('arcu.morbi.sit@icloud.couk'),
+  ('nunc.ullamcorper@hotmail.com'),
+  ('faucibus.leo@hotmail.net'),
+  ('vel@protonmail.net'),
+  ('velit@hotmail.ca'),
+  ('ipsum.dolor.sit@hotmail.couk'),
+  ('ut.ipsum@google.net'),
+  ('aptent.taciti@aol.org'),
+  ('et.netus@aol.net');
+INSERT INTO contact_person_email (contact_person_email)
+VALUES
+  ('vehicula@outlook.couk'),
+  ('maecenas@aol.edu'),
+  ('dapibus@outlook.com'),
+  ('maecenas.iaculis@yahoo.couk'),
+  ('nec.tellus@protonmail.couk'),
+  ('dui.fusce@yahoo.org');
+INSERT INTO contact_person_email (contact_person_email)
+VALUES
+  ('a.feugiat@outlook.couk'),
+  ('felis.purus@protonmail.couk'),
+  ('dolor@google.ca'),
+  ('risus@outlook.com'),
+  ('sapien.molestie.orci@google.net'),
+  ('mollis.duis@yahoo.org'),
+  ('in@hotmail.org'),
+  ('ornare.facilisis.eget@hotmail.ca'),
+  ('feugiat.non@outlook.net'),
+  ('et@google.ca'),
+  ('ac.eleifend.vitae@hotmail.org');
+INSERT INTO contact_person_email (contact_person_email)
+VALUES
+  ('nulla@hotmail.couk'),
+  ('libero.et@google.edu'),
+  ('curae.donec@google.ca'),
+  ('turpis.nulla@yahoo.org'),
+  ('at@yahoo.ca'),
+  ('sit.amet@icloud.couk'),
+  ('rhoncus@google.net'),
+  ('proin.nisl@google.ca'),
+  ('nunc@google.ca'),
+  ('donec.at@google.couk'),
+  ('rhoncus.id@icloud.org');
+INSERT INTO contact_person_email (contact_person_email)
+VALUES
+  ('magna@aol.ca'),
+  ('vitae@hotmail.com'),
+  ('orci.lobortis@yahoo.com'),
+  ('lacinia.orci@hotmail.edu'),
+  ('etiam.vestibulum@aol.net'),
+  ('nisl.sem.consequat@yahoo.net'),
+  ('rutrum.non.hendrerit@google.com'),
+  ('ut.cursus@hotmail.couk'),
+  ('amet.metus.aliquam@outlook.com'),
+  ('magnis.dis@yahoo.edu'),
+  ('et.arcu@hotmail.couk');
+INSERT INTO contact_person_email (contact_person_email)
+VALUES
+  ('sit@protonmail.net'),
+  ('a.felis@yahoo.ca'),
+  ('proin.eget@protonmail.net'),
+  ('lacus.mauris.non@outlook.edu'),
+  ('natoque@aol.net'),
+  ('euismod.enim.etiam@yahoo.org'),
+  ('urna@outlook.couk'),
+  ('pharetra.sed@yahoo.edu'),
+  ('hendrerit.consectetuer@icloud.couk'),
+  ('dis@icloud.net'),
+  ('malesuada.vel@hotmail.edu');
+INSERT INTO contact_person_email (contact_person_email)
+VALUES
+  ('sociis.natoque.penatibus@hotmail.org'),
+  ('sed@google.couk'),
+  ('curae.phasellus@google.couk'),
+  ('venenatis@protonmail.edu'),
+  ('integer.eu@yahoo.edu'),
+  ('sem.consequat.nec@aol.org');

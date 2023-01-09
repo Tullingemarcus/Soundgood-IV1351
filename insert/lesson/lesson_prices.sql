@@ -1,0 +1,780 @@
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,1),
+  (1,NULL,NULL,2),
+  (1,NULL,NULL,3),
+  (1,NULL,NULL,4),
+  (1,NULL,NULL,5),
+  (1,NULL,NULL,6),
+  (1,NULL,NULL,7),
+  (1,NULL,NULL,8),
+  (1,NULL,NULL,9),
+  (1,NULL,NULL,10),
+  (1,NULL,NULL,11);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,12),
+  (1,NULL,NULL,13),
+  (1,NULL,NULL,14),
+  (1,NULL,NULL,15),
+  (1,NULL,NULL,16),
+  (1,NULL,NULL,17),
+  (1,NULL,NULL,18),
+  (1,NULL,NULL,19),
+  (1,NULL,NULL,20),
+  (1,NULL,NULL,21),
+  (1,NULL,NULL,22);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,23),
+  (1,NULL,NULL,24),
+  (1,NULL,NULL,25),
+  (1,NULL,NULL,26),
+  (1,NULL,NULL,27),
+  (1,NULL,NULL,28),
+  (1,NULL,NULL,29),
+  (1,NULL,NULL,30),
+  (1,NULL,NULL,31),
+  (1,NULL,NULL,32),
+  (1,NULL,NULL,33);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,34),
+  (1,NULL,NULL,35),
+  (1,NULL,NULL,36),
+  (1,NULL,NULL,37),
+  (1,NULL,NULL,38),
+  (1,NULL,NULL,39),
+  (1,NULL,NULL,40),
+  (1,NULL,NULL,41),
+  (1,NULL,NULL,42),
+  (1,NULL,NULL,43),
+  (1,NULL,NULL,44);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,45),
+  (1,NULL,NULL,46),
+  (1,NULL,NULL,47),
+  (1,NULL,NULL,48),
+  (1,NULL,NULL,49),
+  (1,NULL,NULL,50);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,51),
+  (1,NULL,NULL,52),
+  (1,NULL,NULL,53),
+  (1,NULL,NULL,54),
+  (1,NULL,NULL,55),
+  (1,NULL,NULL,56),
+  (1,NULL,NULL,57),
+  (1,NULL,NULL,58),
+  (1,NULL,NULL,59),
+  (1,NULL,NULL,60),
+  (1,NULL,NULL,61);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,62),
+  (1,NULL,NULL,63),
+  (1,NULL,NULL,64),
+  (1,NULL,NULL,65),
+  (1,NULL,NULL,66),
+  (1,NULL,NULL,67),
+  (1,NULL,NULL,68),
+  (1,NULL,NULL,69),
+  (1,NULL,NULL,70),
+  (1,NULL,NULL,71),
+  (1,NULL,NULL,72);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,73),
+  (1,NULL,NULL,74),
+  (1,NULL,NULL,75),
+  (1,NULL,NULL,76),
+  (1,NULL,NULL,77),
+  (1,NULL,NULL,78),
+  (1,NULL,NULL,79),
+  (1,NULL,NULL,80),
+  (1,NULL,NULL,81),
+  (1,NULL,NULL,82),
+  (1,NULL,NULL,83);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,84),
+  (1,NULL,NULL,85),
+  (1,NULL,NULL,86),
+  (1,NULL,NULL,87),
+  (1,NULL,NULL,88),
+  (1,NULL,NULL,89),
+  (1,NULL,NULL,90),
+  (1,NULL,NULL,91),
+  (1,NULL,NULL,92),
+  (1,NULL,NULL,93),
+  (1,NULL,NULL,94);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,95),
+  (1,NULL,NULL,96),
+  (1,NULL,NULL,97),
+  (1,NULL,NULL,98),
+  (1,NULL,NULL,99),
+  (1,NULL,NULL,100);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,101),
+  (1,NULL,NULL,102),
+  (1,NULL,NULL,103),
+  (1,NULL,NULL,104),
+  (1,NULL,NULL,105),
+  (1,NULL,NULL,106),
+  (1,NULL,NULL,107),
+  (1,NULL,NULL,108),
+  (1,NULL,NULL,109),
+  (1,NULL,NULL,110),
+  (1,NULL,NULL,111);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,112),
+  (1,NULL,NULL,113),
+  (1,NULL,NULL,114),
+  (1,NULL,NULL,115),
+  (1,NULL,NULL,116),
+  (1,NULL,NULL,117),
+  (1,NULL,NULL,118),
+  (1,NULL,NULL,119),
+  (1,NULL,NULL,120),
+  (1,NULL,NULL,121),
+  (1,NULL,NULL,122);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,123),
+  (1,NULL,NULL,124),
+  (1,NULL,NULL,125),
+  (1,NULL,NULL,126),
+  (1,NULL,NULL,127),
+  (1,NULL,NULL,128),
+  (1,NULL,NULL,129),
+  (1,NULL,NULL,130),
+  (1,NULL,NULL,131),
+  (1,NULL,NULL,132),
+  (1,NULL,NULL,133);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,134),
+  (1,NULL,NULL,135),
+  (1,NULL,NULL,136),
+  (1,NULL,NULL,137),
+  (1,NULL,NULL,138),
+  (1,NULL,NULL,139),
+  (1,NULL,NULL,140),
+  (1,NULL,NULL,141),
+  (1,NULL,NULL,142),
+  (1,NULL,NULL,143),
+  (1,NULL,NULL,144);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,145),
+  (1,NULL,NULL,146),
+  (1,NULL,NULL,147),
+  (1,NULL,NULL,148),
+  (1,NULL,NULL,149),
+  (1,NULL,NULL,150);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,151),
+  (1,NULL,NULL,152),
+  (1,NULL,NULL,153),
+  (1,NULL,NULL,154),
+  (1,NULL,NULL,155),
+  (1,NULL,NULL,156),
+  (1,NULL,NULL,157),
+  (1,NULL,NULL,158),
+  (1,NULL,NULL,159),
+  (1,NULL,NULL,160),
+  (1,NULL,NULL,161);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,162),
+  (1,NULL,NULL,163),
+  (1,NULL,NULL,164),
+  (1,NULL,NULL,165),
+  (1,NULL,NULL,166),
+  (1,NULL,NULL,167),
+  (1,NULL,NULL,168),
+  (1,NULL,NULL,169),
+  (1,NULL,NULL,170),
+  (1,NULL,NULL,171),
+  (1,NULL,NULL,172);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,173),
+  (1,NULL,NULL,174),
+  (1,NULL,NULL,175),
+  (1,NULL,NULL,176),
+  (1,NULL,NULL,177),
+  (1,NULL,NULL,178),
+  (1,NULL,NULL,179),
+  (1,NULL,NULL,180),
+  (1,NULL,NULL,181),
+  (1,NULL,NULL,182),
+  (1,NULL,NULL,183);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,184),
+  (1,NULL,NULL,185),
+  (1,NULL,NULL,186),
+  (1,NULL,NULL,187),
+  (1,NULL,NULL,188),
+  (1,NULL,NULL,189),
+  (1,NULL,NULL,190),
+  (1,NULL,NULL,191),
+  (1,NULL,NULL,192),
+  (1,NULL,NULL,193),
+  (1,NULL,NULL,194);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,195),
+  (1,NULL,NULL,196),
+  (1,NULL,NULL,197),
+  (1,NULL,NULL,198),
+  (1,NULL,NULL,199),
+  (1,NULL,NULL,200);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,201),
+  (1,NULL,NULL,202),
+  (1,NULL,NULL,203),
+  (1,NULL,NULL,204),
+  (1,NULL,NULL,205),
+  (1,NULL,NULL,206),
+  (1,NULL,NULL,207),
+  (1,NULL,NULL,208),
+  (1,NULL,NULL,209),
+  (1,NULL,NULL,210),
+  (1,NULL,NULL,211);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,212),
+  (1,NULL,NULL,213),
+  (1,NULL,NULL,214),
+  (1,NULL,NULL,215),
+  (1,NULL,NULL,216),
+  (1,NULL,NULL,217),
+  (1,NULL,NULL,218),
+  (1,NULL,NULL,219),
+  (1,NULL,NULL,220),
+  (1,NULL,NULL,221),
+  (1,NULL,NULL,222);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,223),
+  (1,NULL,NULL,224),
+  (1,NULL,NULL,225),
+  (1,NULL,NULL,226),
+  (1,NULL,NULL,227),
+  (1,NULL,NULL,228),
+  (1,NULL,NULL,229),
+  (1,NULL,NULL,230),
+  (1,NULL,NULL,231),
+  (1,NULL,NULL,232),
+  (1,NULL,NULL,233);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,234),
+  (1,NULL,NULL,235),
+  (1,NULL,NULL,236),
+  (1,NULL,NULL,237),
+  (1,NULL,NULL,238),
+  (1,NULL,NULL,239),
+  (1,NULL,NULL,240),
+  (1,NULL,NULL,241),
+  (1,NULL,NULL,242),
+  (1,NULL,NULL,243),
+  (1,NULL,NULL,244);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,245),
+  (1,NULL,NULL,246),
+  (1,NULL,NULL,247),
+  (1,NULL,NULL,248),
+  (1,NULL,NULL,249),
+  (1,NULL,NULL,250);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,251),
+  (1,NULL,NULL,252),
+  (1,NULL,NULL,253),
+  (1,NULL,NULL,254),
+  (1,NULL,NULL,255),
+  (1,NULL,NULL,256),
+  (1,NULL,NULL,257),
+  (1,NULL,NULL,258),
+  (1,NULL,NULL,259),
+  (1,NULL,NULL,260),
+  (1,NULL,NULL,261);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,262),
+  (1,NULL,NULL,263),
+  (1,NULL,NULL,264),
+  (1,NULL,NULL,265),
+  (1,NULL,NULL,266),
+  (1,NULL,NULL,267),
+  (1,NULL,NULL,268),
+  (1,NULL,NULL,269),
+  (1,NULL,NULL,270),
+  (1,NULL,NULL,271),
+  (1,NULL,NULL,272);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,273),
+  (1,NULL,NULL,274),
+  (1,NULL,NULL,275),
+  (1,NULL,NULL,276),
+  (1,NULL,NULL,277),
+  (1,NULL,NULL,278),
+  (1,NULL,NULL,279),
+  (1,NULL,NULL,280),
+  (1,NULL,NULL,281),
+  (1,NULL,NULL,282),
+  (1,NULL,NULL,283);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,284),
+  (1,NULL,NULL,285),
+  (1,NULL,NULL,286),
+  (1,NULL,NULL,287),
+  (1,NULL,NULL,288),
+  (1,NULL,NULL,289),
+  (1,NULL,NULL,290),
+  (1,NULL,NULL,291),
+  (1,NULL,NULL,292),
+  (1,NULL,NULL,293),
+  (1,NULL,NULL,294);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,295),
+  (1,NULL,NULL,296),
+  (1,NULL,NULL,297),
+  (1,NULL,NULL,298),
+  (1,NULL,NULL,299),
+  (1,NULL,NULL,300);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,301),
+  (1,NULL,NULL,302),
+  (1,NULL,NULL,303),
+  (1,NULL,NULL,304),
+  (1,NULL,NULL,305),
+  (1,NULL,NULL,306),
+  (1,NULL,NULL,307),
+  (1,NULL,NULL,308),
+  (1,NULL,NULL,309),
+  (1,NULL,NULL,310),
+  (1,NULL,NULL,311);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,312),
+  (1,NULL,NULL,313),
+  (1,NULL,NULL,314),
+  (1,NULL,NULL,315),
+  (1,NULL,NULL,316),
+  (1,NULL,NULL,317),
+  (1,NULL,NULL,318),
+  (1,NULL,NULL,319),
+  (1,NULL,NULL,320),
+  (1,NULL,NULL,321),
+  (1,NULL,NULL,322);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,323),
+  (1,NULL,NULL,324),
+  (1,NULL,NULL,325),
+  (1,NULL,NULL,326),
+  (1,NULL,NULL,327),
+  (1,NULL,NULL,328),
+  (1,NULL,NULL,329),
+  (1,NULL,NULL,330),
+  (1,NULL,NULL,331),
+  (1,NULL,NULL,332),
+  (1,NULL,NULL,333);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,334),
+  (1,NULL,NULL,335),
+  (1,NULL,NULL,336),
+  (1,NULL,NULL,337),
+  (1,NULL,NULL,338),
+  (1,NULL,NULL,339),
+  (1,NULL,NULL,340),
+  (1,NULL,NULL,341),
+  (1,NULL,NULL,342),
+  (1,NULL,NULL,343),
+  (1,NULL,NULL,344);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,345),
+  (1,NULL,NULL,346),
+  (1,NULL,NULL,347),
+  (1,NULL,NULL,348),
+  (1,NULL,NULL,349),
+  (1,NULL,NULL,350);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,351),
+  (1,NULL,NULL,352),
+  (1,NULL,NULL,353),
+  (1,NULL,NULL,354),
+  (1,NULL,NULL,355),
+  (1,NULL,NULL,356),
+  (1,NULL,NULL,357),
+  (1,NULL,NULL,358),
+  (1,NULL,NULL,359),
+  (1,NULL,NULL,360),
+  (1,NULL,NULL,361);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,362),
+  (1,NULL,NULL,363),
+  (1,NULL,NULL,364),
+  (1,NULL,NULL,365),
+  (1,NULL,NULL,366),
+  (1,NULL,NULL,367),
+  (1,NULL,NULL,368),
+  (1,NULL,NULL,369),
+  (1,NULL,NULL,370),
+  (1,NULL,NULL,371),
+  (1,NULL,NULL,372);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,373),
+  (1,NULL,NULL,374),
+  (1,NULL,NULL,375),
+  (1,NULL,NULL,376),
+  (1,NULL,NULL,377),
+  (1,NULL,NULL,378),
+  (1,NULL,NULL,379),
+  (1,NULL,NULL,380),
+  (1,NULL,NULL,381),
+  (1,NULL,NULL,382),
+  (1,NULL,NULL,383);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,384),
+  (1,NULL,NULL,385),
+  (1,NULL,NULL,386),
+  (1,NULL,NULL,387),
+  (1,NULL,NULL,388),
+  (1,NULL,NULL,389),
+  (1,NULL,NULL,390),
+  (1,NULL,NULL,391),
+  (1,NULL,NULL,392),
+  (1,NULL,NULL,393),
+  (1,NULL,NULL,394);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,395),
+  (1,NULL,NULL,396),
+  (1,NULL,NULL,397),
+  (1,NULL,NULL,398),
+  (1,NULL,NULL,399),
+  (1,NULL,NULL,400);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,401),
+  (1,NULL,NULL,402),
+  (1,NULL,NULL,403),
+  (1,NULL,NULL,404),
+  (1,NULL,NULL,405),
+  (1,NULL,NULL,406),
+  (1,NULL,NULL,407),
+  (1,NULL,NULL,408),
+  (1,NULL,NULL,409),
+  (1,NULL,NULL,410),
+  (1,NULL,NULL,411);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,412),
+  (1,NULL,NULL,413),
+  (1,NULL,NULL,414),
+  (1,NULL,NULL,415),
+  (1,NULL,NULL,416),
+  (1,NULL,NULL,417),
+  (1,NULL,NULL,418),
+  (1,NULL,NULL,419),
+  (1,NULL,NULL,420),
+  (1,NULL,NULL,421),
+  (1,NULL,NULL,422);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,423),
+  (1,NULL,NULL,424),
+  (1,NULL,NULL,425),
+  (1,NULL,NULL,426),
+  (1,NULL,NULL,427),
+  (1,NULL,NULL,428),
+  (1,NULL,NULL,429),
+  (1,NULL,NULL,430),
+  (1,NULL,NULL,431),
+  (1,NULL,NULL,432),
+  (1,NULL,NULL,433);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,434),
+  (1,NULL,NULL,435),
+  (1,NULL,NULL,436),
+  (1,NULL,NULL,437),
+  (1,NULL,NULL,438),
+  (1,NULL,NULL,439),
+  (1,NULL,NULL,440),
+  (1,NULL,NULL,441),
+  (1,NULL,NULL,442),
+  (1,NULL,NULL,443),
+  (1,NULL,NULL,444);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,445),
+  (1,NULL,NULL,446),
+  (1,NULL,NULL,447),
+  (1,NULL,NULL,448),
+  (1,NULL,NULL,449),
+  (1,NULL,NULL,450);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,451),
+  (1,NULL,NULL,452),
+  (1,NULL,NULL,453),
+  (1,NULL,NULL,454),
+  (1,NULL,NULL,455),
+  (1,NULL,NULL,456),
+  (1,NULL,NULL,457),
+  (1,NULL,NULL,458),
+  (1,NULL,NULL,459),
+  (1,NULL,NULL,460),
+  (1,NULL,NULL,461);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,462),
+  (1,NULL,NULL,463),
+  (1,NULL,NULL,464),
+  (1,NULL,NULL,465),
+  (1,NULL,NULL,466),
+  (1,NULL,NULL,467),
+  (1,NULL,NULL,468),
+  (1,NULL,NULL,469),
+  (1,NULL,NULL,470),
+  (1,NULL,NULL,471),
+  (1,NULL,NULL,472);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,473),
+  (1,NULL,NULL,474),
+  (1,NULL,NULL,475),
+  (1,NULL,NULL,476),
+  (1,NULL,NULL,477),
+  (1,NULL,NULL,478),
+  (1,NULL,NULL,479),
+  (1,NULL,NULL,480),
+  (1,NULL,NULL,481),
+  (1,NULL,NULL,482),
+  (1,NULL,NULL,483);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,484),
+  (1,NULL,NULL,485),
+  (1,NULL,NULL,486),
+  (1,NULL,NULL,487),
+  (1,NULL,NULL,488),
+  (1,NULL,NULL,489),
+  (1,NULL,NULL,490),
+  (1,NULL,NULL,491),
+  (1,NULL,NULL,492),
+  (1,NULL,NULL,493),
+  (1,NULL,NULL,494);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (1,NULL,NULL,495),
+  (1,NULL,NULL,496),
+  (1,NULL,NULL,497),
+  (1,NULL,NULL,498),
+  (1,NULL,NULL,499),
+  (1,NULL,NULL,500);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (2,NULL,1,NULL),
+  (2,NULL,2,NULL),
+  (2,NULL,3,NULL),
+  (2,NULL,4,NULL),
+  (2,NULL,5,NULL),
+  (2,NULL,6,NULL),
+  (2,NULL,7,NULL),
+  (2,NULL,8,NULL),
+  (2,NULL,9,NULL),
+  (2,NULL,10,NULL),
+  (2,NULL,11,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (2,NULL,12,NULL),
+  (2,NULL,13,NULL),
+  (2,NULL,14,NULL),
+  (2,NULL,15,NULL),
+  (2,NULL,16,NULL),
+  (2,NULL,17,NULL),
+  (2,NULL,18,NULL),
+  (2,NULL,19,NULL),
+  (2,NULL,20,NULL),
+  (2,NULL,21,NULL),
+  (2,NULL,22,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (2,NULL,23,NULL),
+  (2,NULL,24,NULL),
+  (2,NULL,25,NULL),
+  (2,NULL,26,NULL),
+  (2,NULL,27,NULL),
+  (2,NULL,28,NULL),
+  (2,NULL,29,NULL),
+  (2,NULL,30,NULL),
+  (2,NULL,31,NULL),
+  (2,NULL,32,NULL),
+  (2,NULL,33,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (2,NULL,34,NULL),
+  (2,NULL,35,NULL),
+  (2,NULL,36,NULL),
+  (2,NULL,37,NULL),
+  (2,NULL,38,NULL),
+  (2,NULL,39,NULL),
+  (2,NULL,40,NULL),
+  (2,NULL,41,NULL),
+  (2,NULL,42,NULL),
+  (2,NULL,43,NULL),
+  (2,NULL,44,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (2,NULL,45,NULL),
+  (2,NULL,46,NULL),
+  (2,NULL,47,NULL),
+  (2,NULL,48,NULL),
+  (2,NULL,49,NULL),
+  (2,NULL,50,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (2,NULL,51,NULL),
+  (2,NULL,52,NULL),
+  (2,NULL,53,NULL),
+  (2,NULL,54,NULL),
+  (2,NULL,55,NULL),
+  (2,NULL,56,NULL),
+  (2,NULL,57,NULL),
+  (2,NULL,58,NULL),
+  (2,NULL,59,NULL),
+  (2,NULL,60,NULL),
+  (2,NULL,61,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (2,NULL,62,NULL),
+  (2,NULL,63,NULL),
+  (2,NULL,64,NULL),
+  (2,NULL,65,NULL),
+  (2,NULL,66,NULL),
+  (2,NULL,67,NULL),
+  (2,NULL,68,NULL),
+  (2,NULL,69,NULL),
+  (2,NULL,70,NULL),
+  (2,NULL,71,NULL),
+  (2,NULL,72,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (2,NULL,73,NULL),
+  (2,NULL,74,NULL),
+  (2,NULL,75,NULL),
+  (2,NULL,76,NULL),
+  (2,NULL,77,NULL),
+  (2,NULL,78,NULL),
+  (2,NULL,79,NULL),
+  (2,NULL,80,NULL),
+  (2,NULL,81,NULL),
+  (2,NULL,82,NULL),
+  (2,NULL,83,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (2,NULL,84,NULL),
+  (2,NULL,85,NULL),
+  (2,NULL,86,NULL),
+  (2,NULL,87,NULL),
+  (2,NULL,88,NULL),
+  (2,NULL,89,NULL),
+  (2,NULL,90,NULL),
+  (2,NULL,91,NULL),
+  (2,NULL,92,NULL),
+  (2,NULL,93,NULL),
+  (2,NULL,94,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (2,NULL,95,NULL),
+  (2,NULL,96,NULL),
+  (2,NULL,97,NULL),
+  (2,NULL,98,NULL),
+  (2,NULL,99,NULL),
+  (2,NULL,100,NULL);
+  INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (3,1,NULL,NULL),
+  (3,2,NULL,NULL),
+  (3,3,NULL,NULL),
+  (3,4,NULL,NULL),
+  (3,5,NULL,NULL),
+  (3,6,NULL,NULL),
+  (3,7,NULL,NULL),
+  (3,8,NULL,NULL),
+  (3,9,NULL,NULL),
+  (3,10,NULL,NULL),
+  (3,11,NULL,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (3,12,NULL,NULL),
+  (3,13,NULL,NULL),
+  (3,14,NULL,NULL),
+  (3,15,NULL,NULL),
+  (3,16,NULL,NULL),
+  (3,17,NULL,NULL),
+  (3,18,NULL,NULL),
+  (3,19,NULL,NULL),
+  (3,20,NULL,NULL),
+  (3,21,NULL,NULL),
+  (3,22,NULL,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (3,23,NULL,NULL),
+  (3,24,NULL,NULL),
+  (3,25,NULL,NULL),
+  (3,26,NULL,NULL),
+  (3,27,NULL,NULL),
+  (3,28,NULL,NULL),
+  (3,29,NULL,NULL),
+  (3,30,NULL,NULL),
+  (3,31,NULL,NULL),
+  (3,32,NULL,NULL),
+  (3,33,NULL,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (3,34,NULL,NULL),
+  (3,35,NULL,NULL),
+  (3,36,NULL,NULL),
+  (3,37,NULL,NULL),
+  (3,38,NULL,NULL),
+  (3,39,NULL,NULL),
+  (3,40,NULL,NULL),
+  (3,41,NULL,NULL),
+  (3,42,NULL,NULL),
+  (3,43,NULL,NULL),
+  (3,44,NULL,NULL);
+INSERT INTO lesson_prices (price_id,ensemble_id,group_lesson_id,lesson_id)
+VALUES
+  (3,45,NULL,NULL),
+  (3,46,NULL,NULL),
+  (3,47,NULL,NULL),
+  (3,48,NULL,NULL),
+  (3,49,NULL,NULL),
+  (3,50,NULL,NULL);
