@@ -178,3 +178,3603 @@ VALUES
   (19,10,NULL),
   (65,NULL,31),
   (18,NULL,34);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (82,990,NULL),
+  (24,738,NULL),
+  (53,175,NULL),
+  (46,721,NULL),
+  (45,91,NULL),
+  (53,135,NULL),
+  (41,672,NULL),
+  (3,542,NULL),
+  (21,555,NULL),
+  (30,645,NULL),
+  (94,376,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (21,611,NULL),
+  (95,622,NULL),
+  (3,592,NULL),
+  (65,303,NULL),
+  (43,151,NULL),
+  (34,752,NULL),
+  (89,675,NULL),
+  (77,30,NULL),
+  (92,724,NULL),
+  (52,18,NULL),
+  (76,73,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (62,878,NULL),
+  (90,5,NULL),
+  (21,874,NULL),
+  (76,352,NULL),
+  (38,427,NULL),
+  (80,261,NULL),
+  (18,769,NULL),
+  (21,928,NULL),
+  (22,957,NULL),
+  (28,313,NULL),
+  (100,513,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (83,778,NULL),
+  (26,366,NULL),
+  (92,398,NULL),
+  (37,473,NULL),
+  (89,689,NULL),
+  (65,727,NULL),
+  (89,372,NULL),
+  (78,911,NULL),
+  (71,365,NULL),
+  (29,503,NULL),
+  (76,368,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (45,277,NULL),
+  (70,657,NULL),
+  (45,911,NULL),
+  (81,995,NULL),
+  (33,968,NULL),
+  (1,645,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (85,342,NULL),
+  (44,858,NULL),
+  (34,415,NULL),
+  (12,716,NULL),
+  (83,696,NULL),
+  (34,918,NULL),
+  (41,454,NULL),
+  (59,800,NULL),
+  (29,539,NULL),
+  (43,33,NULL),
+  (50,30,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (87,249,NULL),
+  (59,549,NULL),
+  (86,123,NULL),
+  (64,460,NULL),
+  (12,196,NULL),
+  (12,743,NULL),
+  (2,383,NULL),
+  (40,747,NULL),
+  (68,618,NULL),
+  (81,878,NULL),
+  (11,91,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (3,336,NULL),
+  (66,196,NULL),
+  (58,203,NULL),
+  (50,584,NULL),
+  (54,155,NULL),
+  (92,137,NULL),
+  (18,957,NULL),
+  (3,604,NULL),
+  (30,50,NULL),
+  (5,145,NULL),
+  (12,270,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (38,426,NULL),
+  (52,12,NULL),
+  (57,774,NULL),
+  (59,980,NULL),
+  (49,621,NULL),
+  (3,119,NULL),
+  (34,965,NULL),
+  (54,22,NULL),
+  (5,996,NULL),
+  (74,824,NULL),
+  (35,599,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (22,371,NULL),
+  (68,201,NULL),
+  (65,673,NULL),
+  (44,235,NULL),
+  (68,609,NULL),
+  (62,295,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (56,460,NULL),
+  (81,472,NULL),
+  (90,568,NULL),
+  (20,613,NULL),
+  (12,478,NULL),
+  (80,196,NULL),
+  (66,834,NULL),
+  (95,31,NULL),
+  (18,309,NULL),
+  (8,873,NULL),
+  (63,980,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (64,556,NULL),
+  (30,206,NULL),
+  (25,270,NULL),
+  (25,845,NULL),
+  (64,863,NULL),
+  (46,951,NULL),
+  (18,940,NULL),
+  (89,383,NULL),
+  (89,673,NULL),
+  (49,731,NULL),
+  (88,533,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (54,435,NULL),
+  (28,142,NULL),
+  (81,124,NULL),
+  (11,230,NULL),
+  (26,508,NULL),
+  (81,550,NULL),
+  (22,11,NULL),
+  (11,134,NULL),
+  (4,574,NULL),
+  (82,297,NULL),
+  (97,403,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (11,191,NULL),
+  (1,323,NULL),
+  (34,19,NULL),
+  (95,145,NULL),
+  (9,848,NULL),
+  (83,989,NULL),
+  (30,359,NULL),
+  (49,404,NULL),
+  (70,75,NULL),
+  (14,861,NULL),
+  (29,945,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (7,250,NULL),
+  (87,882,NULL),
+  (49,203,NULL),
+  (24,236,NULL),
+  (9,364,NULL),
+  (15,90,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (80,234,NULL),
+  (63,164,NULL),
+  (84,160,NULL),
+  (62,291,NULL),
+  (96,260,NULL),
+  (79,701,NULL),
+  (73,290,NULL),
+  (59,101,NULL),
+  (57,677,NULL),
+  (46,51,NULL),
+  (92,166,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (64,70,NULL),
+  (46,90,NULL),
+  (48,16,NULL),
+  (38,138,NULL),
+  (92,737,NULL),
+  (50,828,NULL),
+  (8,205,NULL),
+  (9,745,NULL),
+  (64,99,NULL),
+  (59,331,NULL),
+  (86,682,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (33,787,NULL),
+  (71,635,NULL),
+  (24,787,NULL),
+  (78,423,NULL),
+  (59,881,NULL),
+  (4,35,NULL),
+  (19,367,NULL),
+  (45,124,NULL),
+  (83,782,NULL),
+  (81,831,NULL),
+  (42,954,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (40,859,NULL),
+  (57,580,NULL),
+  (57,749,NULL),
+  (62,643,NULL),
+  (35,760,NULL),
+  (10,613,NULL),
+  (71,970,NULL),
+  (65,538,NULL),
+  (10,383,NULL),
+  (66,60,NULL),
+  (33,201,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (79,807,NULL),
+  (88,941,NULL),
+  (47,873,NULL),
+  (91,78,NULL),
+  (2,913,NULL),
+  (9,787,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (71,791,NULL),
+  (92,83,NULL),
+  (45,19,NULL),
+  (9,736,NULL),
+  (20,42,NULL),
+  (26,964,NULL),
+  (98,846,NULL),
+  (10,345,NULL),
+  (88,700,NULL),
+  (91,479,NULL),
+  (94,498,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (29,20,NULL),
+  (88,976,NULL),
+  (39,998,NULL),
+  (79,963,NULL),
+  (65,97,NULL),
+  (48,464,NULL),
+  (57,856,NULL),
+  (32,361,NULL),
+  (74,920,NULL),
+  (67,103,NULL),
+  (68,584,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (29,25,NULL),
+  (14,777,NULL),
+  (22,166,NULL),
+  (37,658,NULL),
+  (97,969,NULL),
+  (37,757,NULL),
+  (59,201,NULL),
+  (16,467,NULL),
+  (90,158,NULL),
+  (40,337,NULL),
+  (43,910,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (13,409,NULL),
+  (60,999,NULL),
+  (90,53,NULL),
+  (70,707,NULL),
+  (85,658,NULL),
+  (11,11,NULL),
+  (26,12,NULL),
+  (26,343,NULL),
+  (22,3,NULL),
+  (39,400,NULL),
+  (54,163,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (72,161,NULL),
+  (82,884,NULL),
+  (85,87,NULL),
+  (38,684,NULL),
+  (6,155,NULL),
+  (62,688,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (44,59,NULL),
+  (61,615,NULL),
+  (10,286,NULL),
+  (75,219,NULL),
+  (2,388,NULL),
+  (32,82,NULL),
+  (66,410,NULL),
+  (43,91,NULL),
+  (49,566,NULL),
+  (80,716,NULL),
+  (15,202,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (39,373,NULL),
+  (80,196,NULL),
+  (35,487,NULL),
+  (26,431,NULL),
+  (83,825,NULL),
+  (34,208,NULL),
+  (40,262,NULL),
+  (49,297,NULL),
+  (61,280,NULL),
+  (57,104,NULL),
+  (12,150,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (73,437,NULL),
+  (63,485,NULL),
+  (8,530,NULL),
+  (88,886,NULL),
+  (40,942,NULL),
+  (44,337,NULL),
+  (61,393,NULL),
+  (52,907,NULL),
+  (83,717,NULL),
+  (95,690,NULL),
+  (50,297,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (93,635,NULL),
+  (89,556,NULL),
+  (8,133,NULL),
+  (81,453,NULL),
+  (30,686,NULL),
+  (33,53,NULL),
+  (43,474,NULL),
+  (10,535,NULL),
+  (82,363,NULL),
+  (8,867,NULL),
+  (62,437,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (19,22,NULL),
+  (53,356,NULL),
+  (64,823,NULL),
+  (63,889,NULL),
+  (94,397,NULL),
+  (31,210,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (21,229,NULL),
+  (57,115,NULL),
+  (7,865,NULL),
+  (18,240,NULL),
+  (27,520,NULL),
+  (100,538,NULL),
+  (23,250,NULL),
+  (4,273,NULL),
+  (82,491,NULL),
+  (72,68,NULL),
+  (32,151,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (11,50,NULL),
+  (72,914,NULL),
+  (98,602,NULL),
+  (95,368,NULL),
+  (57,916,NULL),
+  (52,431,NULL),
+  (2,953,NULL),
+  (3,380,NULL),
+  (22,240,NULL),
+  (76,660,NULL),
+  (44,689,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (45,530,NULL),
+  (54,212,NULL),
+  (96,969,NULL),
+  (12,350,NULL),
+  (29,923,NULL),
+  (26,996,NULL),
+  (61,270,NULL),
+  (84,259,NULL),
+  (78,18,NULL),
+  (99,30,NULL),
+  (99,712,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (54,396,NULL),
+  (11,197,NULL),
+  (13,349,NULL),
+  (54,776,NULL),
+  (25,401,NULL),
+  (49,370,NULL),
+  (50,562,NULL),
+  (90,9,NULL),
+  (14,924,NULL),
+  (30,135,NULL),
+  (51,753,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (30,321,NULL),
+  (54,721,NULL),
+  (96,48,NULL),
+  (77,502,NULL),
+  (17,885,NULL),
+  (51,816,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (39,642,NULL),
+  (97,729,NULL),
+  (99,951,NULL),
+  (30,682,NULL),
+  (65,519,NULL),
+  (41,231,NULL),
+  (40,903,NULL),
+  (26,433,NULL),
+  (23,9,NULL),
+  (50,199,NULL),
+  (71,977,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (97,34,NULL),
+  (6,321,NULL),
+  (88,825,NULL),
+  (20,491,NULL),
+  (70,53,NULL),
+  (41,691,NULL),
+  (15,228,NULL),
+  (11,184,NULL),
+  (81,474,NULL),
+  (85,671,NULL),
+  (3,169,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (2,96,NULL),
+  (50,765,NULL),
+  (55,324,NULL),
+  (100,176,NULL),
+  (7,650,NULL),
+  (94,567,NULL),
+  (34,170,NULL),
+  (69,99,NULL),
+  (68,939,NULL),
+  (69,754,NULL),
+  (27,57,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (55,355,NULL),
+  (69,937,NULL),
+  (83,760,NULL),
+  (38,688,NULL),
+  (98,408,NULL),
+  (23,239,NULL),
+  (62,132,NULL),
+  (39,401,NULL),
+  (47,294,NULL),
+  (79,105,NULL),
+  (47,162,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (71,933,NULL),
+  (72,635,NULL),
+  (56,619,NULL),
+  (12,21,NULL),
+  (82,196,NULL),
+  (9,893,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (63,251,NULL),
+  (74,305,NULL),
+  (87,267,NULL),
+  (40,628,NULL),
+  (18,973,NULL),
+  (27,283,NULL),
+  (48,26,NULL),
+  (14,235,NULL),
+  (15,790,NULL),
+  (42,21,NULL),
+  (65,177,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (94,531,NULL),
+  (28,809,NULL),
+  (17,870,NULL),
+  (22,888,NULL),
+  (6,91,NULL),
+  (2,225,NULL),
+  (26,428,NULL),
+  (60,322,NULL),
+  (26,327,NULL),
+  (94,122,NULL),
+  (2,470,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (16,833,NULL),
+  (23,19,NULL),
+  (38,995,NULL),
+  (68,227,NULL),
+  (93,463,NULL),
+  (9,382,NULL),
+  (69,62,NULL),
+  (15,904,NULL),
+  (63,862,NULL),
+  (40,767,NULL),
+  (6,220,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (98,39,NULL),
+  (6,305,NULL),
+  (98,651,NULL),
+  (99,85,NULL),
+  (39,791,NULL),
+  (54,470,NULL),
+  (62,617,NULL),
+  (88,933,NULL),
+  (34,393,NULL),
+  (6,393,NULL),
+  (68,424,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (83,942,NULL),
+  (36,948,NULL),
+  (65,570,NULL),
+  (42,718,NULL),
+  (66,130,NULL),
+  (99,921,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (42,700,NULL),
+  (10,740,NULL),
+  (55,741,NULL),
+  (98,163,NULL),
+  (57,816,NULL),
+  (50,832,NULL),
+  (53,748,NULL),
+  (86,934,NULL),
+  (93,154,NULL),
+  (10,78,NULL),
+  (27,471,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (83,295,NULL),
+  (17,510,NULL),
+  (74,88,NULL),
+  (79,778,NULL),
+  (21,763,NULL),
+  (64,540,NULL),
+  (30,293,NULL),
+  (58,299,NULL),
+  (1,763,NULL),
+  (26,904,NULL),
+  (92,671,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (90,161,NULL),
+  (14,306,NULL),
+  (94,471,NULL),
+  (3,972,NULL),
+  (54,843,NULL),
+  (81,183,NULL),
+  (47,276,NULL),
+  (23,145,NULL),
+  (91,566,NULL),
+  (57,62,NULL),
+  (56,496,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (54,314,NULL),
+  (45,468,NULL),
+  (100,598,NULL),
+  (9,165,NULL),
+  (71,282,NULL),
+  (24,273,NULL),
+  (36,514,NULL),
+  (20,987,NULL),
+  (66,184,NULL),
+  (81,500,NULL),
+  (29,144,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (70,780,NULL),
+  (82,342,NULL),
+  (41,578,NULL),
+  (75,715,NULL),
+  (97,381,NULL),
+  (11,191,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (23,38,NULL),
+  (70,550,NULL),
+  (44,700,NULL),
+  (56,12,NULL),
+  (71,871,NULL),
+  (67,969,NULL),
+  (28,811,NULL),
+  (34,211,NULL),
+  (8,106,NULL),
+  (70,147,NULL),
+  (7,378,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (46,753,NULL),
+  (9,934,NULL),
+  (34,39,NULL),
+  (35,399,NULL),
+  (10,8,NULL),
+  (43,179,NULL),
+  (44,404,NULL),
+  (9,218,NULL),
+  (85,304,NULL),
+  (68,459,NULL),
+  (52,635,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (52,712,NULL),
+  (22,388,NULL),
+  (84,672,NULL),
+  (57,806,NULL),
+  (47,396,NULL),
+  (49,989,NULL),
+  (76,215,NULL),
+  (22,990,NULL),
+  (89,705,NULL),
+  (59,698,NULL),
+  (4,431,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (28,974,NULL),
+  (28,856,NULL),
+  (56,428,NULL),
+  (13,651,NULL),
+  (50,658,NULL),
+  (75,208,NULL),
+  (73,605,NULL),
+  (63,857,NULL),
+  (59,950,NULL),
+  (85,882,NULL),
+  (63,73,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (47,500,NULL),
+  (18,869,NULL),
+  (21,149,NULL),
+  (65,243,NULL),
+  (46,729,NULL),
+  (6,128,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (20,536,NULL),
+  (27,92,NULL),
+  (29,596,NULL),
+  (55,23,NULL),
+  (63,261,NULL),
+  (22,551,NULL),
+  (40,556,NULL),
+  (65,442,NULL),
+  (85,733,NULL),
+  (22,160,NULL),
+  (36,191,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (5,841,NULL),
+  (13,133,NULL),
+  (42,982,NULL),
+  (50,391,NULL),
+  (98,932,NULL),
+  (64,57,NULL),
+  (66,920,NULL),
+  (81,365,NULL),
+  (37,31,NULL),
+  (30,833,NULL),
+  (81,858,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (46,140,NULL),
+  (14,253,NULL),
+  (21,725,NULL),
+  (46,969,NULL),
+  (65,153,NULL),
+  (90,860,NULL),
+  (57,971,NULL),
+  (64,334,NULL),
+  (63,601,NULL),
+  (53,884,NULL),
+  (7,375,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (31,638,NULL),
+  (51,254,NULL),
+  (85,461,NULL),
+  (74,436,NULL),
+  (5,751,NULL),
+  (84,154,NULL),
+  (60,506,NULL),
+  (78,93,NULL),
+  (86,705,NULL),
+  (17,501,NULL),
+  (55,579,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (55,253,NULL),
+  (48,851,NULL),
+  (8,143,NULL),
+  (82,675,NULL),
+  (48,227,NULL),
+  (54,265,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (59,640,NULL),
+  (40,285,NULL),
+  (84,354,NULL),
+  (20,931,NULL),
+  (17,880,NULL),
+  (80,223,NULL),
+  (83,487,NULL),
+  (56,898,NULL),
+  (7,357,NULL),
+  (53,441,NULL),
+  (7,873,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (32,735,NULL),
+  (42,739,NULL),
+  (90,519,NULL),
+  (55,561,NULL),
+  (95,642,NULL),
+  (9,34,NULL),
+  (90,931,NULL),
+  (74,384,NULL),
+  (33,261,NULL),
+  (55,690,NULL),
+  (35,808,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (46,759,NULL),
+  (23,839,NULL),
+  (15,113,NULL),
+  (17,689,NULL),
+  (37,321,NULL),
+  (54,879,NULL),
+  (45,145,NULL),
+  (69,241,NULL),
+  (86,46,NULL),
+  (84,229,NULL),
+  (75,975,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (58,823,NULL),
+  (26,558,NULL),
+  (85,369,NULL),
+  (78,783,NULL),
+  (99,8,NULL),
+  (82,921,NULL),
+  (98,405,NULL),
+  (34,89,NULL),
+  (13,326,NULL),
+  (62,489,NULL),
+  (51,226,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (8,720,NULL),
+  (68,270,NULL),
+  (80,509,NULL),
+  (69,56,NULL),
+  (45,4,NULL),
+  (90,795,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (35,149,NULL),
+  (79,475,NULL),
+  (55,111,NULL),
+  (85,382,NULL),
+  (39,884,NULL),
+  (99,71,NULL),
+  (3,926,NULL),
+  (66,91,NULL),
+  (48,58,NULL),
+  (100,154,NULL),
+  (63,410,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (73,845,NULL),
+  (52,681,NULL),
+  (28,303,NULL),
+  (32,528,NULL),
+  (40,63,NULL),
+  (45,83,NULL),
+  (100,350,NULL),
+  (78,723,NULL),
+  (84,17,NULL),
+  (87,81,NULL),
+  (53,901,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (62,562,NULL),
+  (14,651,NULL),
+  (55,266,NULL),
+  (54,352,NULL),
+  (25,321,NULL),
+  (98,900,NULL),
+  (14,94,NULL),
+  (97,938,NULL),
+  (55,711,NULL),
+  (65,384,NULL),
+  (14,771,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (39,247,NULL),
+  (2,558,NULL),
+  (84,696,NULL),
+  (94,974,NULL),
+  (53,672,NULL),
+  (3,876,NULL),
+  (62,841,NULL),
+  (33,830,NULL),
+  (72,736,NULL),
+  (65,231,NULL),
+  (4,89,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (7,864,NULL),
+  (49,240,NULL),
+  (74,678,NULL),
+  (72,287,NULL),
+  (79,147,NULL),
+  (57,451,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (35,247,NULL),
+  (89,995,NULL),
+  (52,777,NULL),
+  (54,963,NULL),
+  (43,171,NULL),
+  (23,261,NULL),
+  (62,544,NULL),
+  (44,728,NULL),
+  (71,518,NULL),
+  (18,377,NULL),
+  (43,689,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (89,969,NULL),
+  (74,390,NULL),
+  (46,183,NULL),
+  (81,65,NULL),
+  (86,432,NULL),
+  (15,766,NULL),
+  (48,51,NULL),
+  (49,856,NULL),
+  (15,436,NULL),
+  (84,872,NULL),
+  (54,595,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (24,93,NULL),
+  (38,474,NULL),
+  (85,659,NULL),
+  (44,385,NULL),
+  (3,352,NULL),
+  (6,72,NULL),
+  (93,300,NULL),
+  (64,413,NULL),
+  (87,384,NULL),
+  (19,371,NULL),
+  (43,871,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (30,442,NULL),
+  (12,938,NULL),
+  (61,468,NULL),
+  (75,926,NULL),
+  (92,443,NULL),
+  (72,473,NULL),
+  (46,484,NULL),
+  (95,774,NULL),
+  (85,508,NULL),
+  (81,940,NULL),
+  (13,992,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (84,296,NULL),
+  (65,326,NULL),
+  (37,802,NULL),
+  (4,255,NULL),
+  (59,645,NULL),
+  (25,987,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (10,310,NULL),
+  (67,734,NULL),
+  (64,368,NULL),
+  (44,120,NULL),
+  (42,899,NULL),
+  (14,163,NULL),
+  (13,247,NULL),
+  (70,619,NULL),
+  (42,447,NULL),
+  (64,939,NULL),
+  (6,46,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (71,919,NULL),
+  (53,634,NULL),
+  (90,959,NULL),
+  (2,34,NULL),
+  (71,520,NULL),
+  (86,187,NULL),
+  (50,834,NULL),
+  (63,611,NULL),
+  (88,185,NULL),
+  (66,29,NULL),
+  (4,293,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (73,231,NULL),
+  (28,577,NULL),
+  (91,74,NULL),
+  (32,286,NULL),
+  (77,531,NULL),
+  (96,702,NULL),
+  (93,491,NULL),
+  (51,804,NULL),
+  (92,919,NULL),
+  (57,544,NULL),
+  (77,774,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (83,556,NULL),
+  (22,353,NULL),
+  (77,474,NULL),
+  (58,251,NULL),
+  (44,957,NULL),
+  (96,35,NULL),
+  (97,293,NULL),
+  (5,121,NULL),
+  (3,734,NULL),
+  (72,816,NULL),
+  (24,80,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (38,59,NULL),
+  (85,917,NULL),
+  (77,408,NULL),
+  (37,568,NULL),
+  (11,492,NULL),
+  (82,825,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (52,210,NULL),
+  (14,628,NULL),
+  (55,842,NULL),
+  (2,291,NULL),
+  (60,32,NULL),
+  (95,646,NULL),
+  (16,992,NULL),
+  (71,848,NULL),
+  (25,306,NULL),
+  (60,161,NULL),
+  (40,861,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (38,186,NULL),
+  (98,58,NULL),
+  (14,185,NULL),
+  (73,874,NULL),
+  (43,314,NULL),
+  (30,642,NULL),
+  (96,927,NULL),
+  (52,430,NULL),
+  (92,880,NULL),
+  (54,247,NULL),
+  (23,207,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (96,817,NULL),
+  (3,557,NULL),
+  (74,858,NULL),
+  (17,107,NULL),
+  (78,704,NULL),
+  (89,680,NULL),
+  (25,593,NULL),
+  (19,741,NULL),
+  (47,551,NULL),
+  (64,721,NULL),
+  (21,814,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (30,223,NULL),
+  (19,731,NULL),
+  (73,210,NULL),
+  (54,759,NULL),
+  (65,736,NULL),
+  (30,57,NULL),
+  (16,126,NULL),
+  (7,397,NULL),
+  (65,256,NULL),
+  (66,987,NULL),
+  (92,313,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (85,865,NULL),
+  (74,474,NULL),
+  (58,716,NULL),
+  (26,863,NULL),
+  (48,164,NULL),
+  (71,991,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (80,203,NULL),
+  (50,80,NULL),
+  (76,419,NULL),
+  (67,502,NULL),
+  (48,645,NULL),
+  (94,785,NULL),
+  (80,920,NULL),
+  (29,474,NULL),
+  (38,825,NULL),
+  (52,306,NULL),
+  (35,80,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (85,410,NULL),
+  (57,31,NULL),
+  (14,482,NULL),
+  (37,92,NULL),
+  (90,185,NULL),
+  (61,179,NULL),
+  (23,744,NULL),
+  (88,339,NULL),
+  (73,341,NULL),
+  (46,772,NULL),
+  (38,898,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (87,434,NULL),
+  (90,696,NULL),
+  (92,923,NULL),
+  (31,583,NULL),
+  (90,834,NULL),
+  (92,625,NULL),
+  (42,622,NULL),
+  (13,3,NULL),
+  (37,145,NULL),
+  (37,364,NULL),
+  (78,403,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (48,602,NULL),
+  (54,904,NULL),
+  (34,224,NULL),
+  (24,926,NULL),
+  (2,534,NULL),
+  (77,999,NULL),
+  (9,587,NULL),
+  (52,138,NULL),
+  (44,20,NULL),
+  (69,285,NULL),
+  (88,862,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (77,756,NULL),
+  (68,906,NULL),
+  (63,289,NULL),
+  (90,300,NULL),
+  (17,799,NULL),
+  (8,708,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (62,731,NULL),
+  (15,809,NULL),
+  (4,789,NULL),
+  (9,290,NULL),
+  (3,310,NULL),
+  (89,557,NULL),
+  (19,619,NULL),
+  (77,775,NULL),
+  (75,577,NULL),
+  (18,823,NULL),
+  (58,459,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (71,739,NULL),
+  (82,859,NULL),
+  (89,715,NULL),
+  (18,150,NULL),
+  (96,392,NULL),
+  (94,503,NULL),
+  (60,801,NULL),
+  (51,728,NULL),
+  (55,16,NULL),
+  (39,647,NULL),
+  (17,183,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (69,814,NULL),
+  (6,831,NULL),
+  (10,972,NULL),
+  (88,24,NULL),
+  (23,817,NULL),
+  (2,239,NULL),
+  (21,897,NULL),
+  (92,7,NULL),
+  (52,77,NULL),
+  (7,188,NULL),
+  (56,630,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (24,694,NULL),
+  (40,380,NULL),
+  (26,753,NULL),
+  (18,941,NULL),
+  (63,553,NULL),
+  (31,218,NULL),
+  (37,106,NULL),
+  (47,171,NULL),
+  (93,275,NULL),
+  (83,869,NULL),
+  (75,373,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (30,415,NULL),
+  (27,817,NULL),
+  (31,547,NULL),
+  (7,227,NULL),
+  (92,129,NULL),
+  (35,387,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (46,14,NULL),
+  (14,973,NULL),
+  (9,429,NULL),
+  (21,888,NULL),
+  (69,644,NULL),
+  (26,425,NULL),
+  (4,450,NULL),
+  (31,199,NULL),
+  (13,883,NULL),
+  (25,229,NULL),
+  (20,872,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (67,135,NULL),
+  (39,497,NULL),
+  (99,357,NULL),
+  (1,276,NULL),
+  (98,76,NULL),
+  (19,900,NULL),
+  (28,709,NULL),
+  (84,288,NULL),
+  (42,875,NULL),
+  (43,609,NULL),
+  (99,523,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (8,810,NULL),
+  (53,261,NULL),
+  (62,841,NULL),
+  (5,889,NULL),
+  (51,952,NULL),
+  (66,154,NULL),
+  (73,147,NULL),
+  (58,185,NULL),
+  (23,182,NULL),
+  (3,803,NULL),
+  (75,321,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (66,954,NULL),
+  (41,9,NULL),
+  (80,390,NULL),
+  (58,748,NULL),
+  (60,124,NULL),
+  (49,530,NULL),
+  (88,438,NULL),
+  (40,376,NULL),
+  (85,923,NULL),
+  (12,573,NULL),
+  (22,612,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (16,478,NULL),
+  (10,161,NULL),
+  (97,386,NULL),
+  (44,471,NULL),
+  (16,970,NULL),
+  (42,547,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (78,327,NULL),
+  (28,72,NULL),
+  (87,648,NULL),
+  (77,903,NULL),
+  (91,232,NULL),
+  (30,961,NULL),
+  (58,845,NULL),
+  (21,491,NULL),
+  (79,2,NULL),
+  (82,91,NULL),
+  (38,727,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (67,182,NULL),
+  (88,87,NULL),
+  (38,625,NULL),
+  (7,797,NULL),
+  (12,333,NULL),
+  (68,597,NULL),
+  (22,239,NULL),
+  (62,857,NULL),
+  (49,210,NULL),
+  (29,886,NULL),
+  (75,123,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (24,698,NULL),
+  (12,143,NULL),
+  (51,406,NULL),
+  (38,888,NULL),
+  (16,882,NULL),
+  (18,871,NULL),
+  (44,17,NULL),
+  (44,312,NULL),
+  (98,969,NULL),
+  (28,635,NULL),
+  (53,278,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (97,514,NULL),
+  (94,794,NULL),
+  (49,718,NULL),
+  (9,731,NULL),
+  (2,908,NULL),
+  (32,148,NULL),
+  (91,57,NULL),
+  (85,499,NULL),
+  (55,550,NULL),
+  (17,621,NULL),
+  (3,555,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (78,400,NULL),
+  (76,507,NULL),
+  (89,49,NULL),
+  (20,974,NULL),
+  (7,907,NULL),
+  (1,374,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (46,915,NULL),
+  (69,278,NULL),
+  (87,676,NULL),
+  (80,907,NULL),
+  (71,407,NULL),
+  (55,176,NULL),
+  (37,702,NULL),
+  (40,255,NULL),
+  (20,951,NULL),
+  (63,48,NULL),
+  (78,386,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (19,364,NULL),
+  (99,208,NULL),
+  (73,668,NULL),
+  (53,73,NULL),
+  (27,336,NULL),
+  (68,270,NULL),
+  (51,504,NULL),
+  (5,321,NULL),
+  (40,947,NULL),
+  (51,329,NULL),
+  (61,106,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (85,301,NULL),
+  (9,644,NULL),
+  (8,461,NULL),
+  (25,891,NULL),
+  (56,542,NULL),
+  (47,166,NULL),
+  (96,507,NULL),
+  (96,49,NULL),
+  (77,219,NULL),
+  (4,685,NULL),
+  (52,606,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (75,692,NULL),
+  (36,812,NULL),
+  (30,920,NULL),
+  (36,407,NULL),
+  (52,471,NULL),
+  (78,98,NULL),
+  (26,962,NULL),
+  (79,826,NULL),
+  (97,866,NULL),
+  (31,868,NULL),
+  (55,592,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (77,585,NULL),
+  (99,39,NULL),
+  (48,124,NULL),
+  (67,327,NULL),
+  (25,464,NULL),
+  (71,991,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (88,85,NULL),
+  (39,868,NULL),
+  (34,159,NULL),
+  (96,794,NULL),
+  (24,598,NULL),
+  (74,712,NULL),
+  (8,183,NULL),
+  (48,583,NULL),
+  (42,928,NULL),
+  (54,256,NULL),
+  (99,192,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (10,603,NULL),
+  (29,910,NULL),
+  (97,732,NULL),
+  (86,938,NULL),
+  (70,722,NULL),
+  (88,56,NULL),
+  (10,232,NULL),
+  (31,354,NULL),
+  (79,495,NULL),
+  (26,678,NULL),
+  (88,207,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (24,257,NULL),
+  (40,904,NULL),
+  (43,717,NULL),
+  (99,98,NULL),
+  (82,937,NULL),
+  (87,591,NULL),
+  (58,416,NULL),
+  (73,515,NULL),
+  (43,215,NULL),
+  (8,58,NULL),
+  (77,595,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (22,855,NULL),
+  (60,829,NULL),
+  (31,332,NULL),
+  (20,584,NULL),
+  (29,259,NULL),
+  (45,257,NULL),
+  (97,343,NULL),
+  (2,909,NULL),
+  (90,401,NULL),
+  (56,365,NULL),
+  (13,440,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (64,507,NULL),
+  (20,85,NULL),
+  (88,997,NULL),
+  (93,322,NULL),
+  (42,259,NULL),
+  (54,80,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (13,858,NULL),
+  (47,46,NULL),
+  (57,950,NULL),
+  (67,626,NULL),
+  (3,234,NULL),
+  (39,351,NULL),
+  (18,986,NULL),
+  (6,397,NULL),
+  (4,131,NULL),
+  (92,297,NULL),
+  (94,71,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (68,296,NULL),
+  (65,419,NULL),
+  (25,653,NULL),
+  (81,454,NULL),
+  (25,208,NULL),
+  (72,173,NULL),
+  (55,779,NULL),
+  (92,403,NULL),
+  (70,527,NULL),
+  (57,492,NULL),
+  (51,933,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (42,905,NULL),
+  (72,250,NULL),
+  (99,188,NULL),
+  (55,328,NULL),
+  (4,283,NULL),
+  (75,820,NULL),
+  (46,11,NULL),
+  (61,505,NULL),
+  (48,125,NULL),
+  (61,136,NULL),
+  (17,260,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (23,722,NULL),
+  (91,987,NULL),
+  (79,265,NULL),
+  (79,599,NULL),
+  (23,695,NULL),
+  (32,353,NULL),
+  (28,564,NULL),
+  (47,24,NULL),
+  (63,699,NULL),
+  (78,855,NULL),
+  (11,528,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (10,73,NULL),
+  (39,552,NULL),
+  (87,605,NULL),
+  (14,388,NULL),
+  (19,781,NULL),
+  (40,303,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (78,504,NULL),
+  (90,902,NULL),
+  (83,613,NULL),
+  (10,600,NULL),
+  (34,4,NULL),
+  (91,877,NULL),
+  (19,766,NULL),
+  (57,598,NULL),
+  (18,538,NULL),
+  (93,510,NULL),
+  (71,796,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (90,955,NULL),
+  (59,613,NULL),
+  (73,282,NULL),
+  (55,237,NULL),
+  (36,272,NULL),
+  (76,187,NULL),
+  (7,358,NULL),
+  (8,946,NULL),
+  (43,81,NULL),
+  (8,697,NULL),
+  (65,483,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (8,206,NULL),
+  (17,724,NULL),
+  (6,92,NULL),
+  (94,707,NULL),
+  (36,519,NULL),
+  (56,151,NULL),
+  (67,853,NULL),
+  (53,836,NULL),
+  (85,727,NULL),
+  (65,174,NULL),
+  (84,216,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (72,46,NULL),
+  (60,896,NULL),
+  (20,270,NULL),
+  (36,469,NULL),
+  (6,381,NULL),
+  (49,302,NULL),
+  (33,553,NULL),
+  (91,396,NULL),
+  (90,754,NULL),
+  (40,828,NULL),
+  (75,525,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (65,803,NULL),
+  (69,365,NULL),
+  (82,960,NULL),
+  (18,150,NULL),
+  (100,421,NULL),
+  (87,566,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (43,274,NULL),
+  (74,227,NULL),
+  (90,305,NULL),
+  (14,735,NULL),
+  (8,411,NULL),
+  (62,602,NULL),
+  (61,297,NULL),
+  (63,990,NULL),
+  (41,323,NULL),
+  (85,634,NULL),
+  (43,865,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (20,259,NULL),
+  (94,885,NULL),
+  (79,265,NULL),
+  (22,633,NULL),
+  (81,687,NULL),
+  (67,180,NULL),
+  (89,876,NULL),
+  (24,701,NULL),
+  (45,841,NULL),
+  (42,199,NULL),
+  (9,775,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (82,775,NULL),
+  (89,424,NULL),
+  (79,912,NULL),
+  (30,997,NULL),
+  (61,448,NULL),
+  (11,596,NULL),
+  (69,418,NULL),
+  (44,389,NULL),
+  (79,35,NULL),
+  (42,30,NULL),
+  (29,989,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (46,184,NULL),
+  (79,618,NULL),
+  (81,350,NULL),
+  (6,729,NULL),
+  (46,315,NULL),
+  (17,308,NULL),
+  (59,635,NULL),
+  (84,891,NULL),
+  (93,218,NULL),
+  (52,60,NULL),
+  (4,213,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (28,555,NULL),
+  (96,304,NULL),
+  (43,963,NULL),
+  (38,874,NULL),
+  (28,555,NULL),
+  (55,72,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (24,866,NULL),
+  (59,569,NULL),
+  (11,577,NULL),
+  (9,214,NULL),
+  (88,224,NULL),
+  (82,918,NULL),
+  (61,628,NULL),
+  (76,271,NULL),
+  (96,762,NULL),
+  (96,195,NULL),
+  (33,578,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (49,143,NULL),
+  (30,348,NULL),
+  (82,385,NULL),
+  (95,659,NULL),
+  (36,893,NULL),
+  (76,739,NULL),
+  (29,563,NULL),
+  (84,113,NULL),
+  (64,657,NULL),
+  (9,887,NULL),
+  (96,983,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (50,935,NULL),
+  (48,3,NULL),
+  (60,129,NULL),
+  (22,615,NULL),
+  (99,283,NULL),
+  (38,529,NULL),
+  (24,628,NULL),
+  (97,637,NULL),
+  (71,535,NULL),
+  (3,578,NULL),
+  (40,990,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (37,133,NULL),
+  (41,178,NULL),
+  (28,975,NULL),
+  (37,649,NULL),
+  (78,690,NULL),
+  (90,349,NULL),
+  (38,437,NULL),
+  (25,756,NULL),
+  (68,135,NULL),
+  (43,603,NULL),
+  (92,452,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (71,718,NULL),
+  (32,872,NULL),
+  (36,847,NULL),
+  (7,108,NULL),
+  (61,215,NULL),
+  (44,451,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (56,749,NULL),
+  (81,474,NULL),
+  (89,931,NULL),
+  (25,755,NULL),
+  (63,884,NULL),
+  (62,516,NULL),
+  (73,199,NULL),
+  (47,152,NULL),
+  (25,71,NULL),
+  (6,878,NULL),
+  (18,162,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (65,195,NULL),
+  (68,38,NULL),
+  (75,809,NULL),
+  (32,744,NULL),
+  (77,195,NULL),
+  (30,359,NULL),
+  (60,800,NULL),
+  (25,154,NULL),
+  (21,973,NULL),
+  (99,682,NULL),
+  (50,80,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (32,217,NULL),
+  (57,350,NULL),
+  (18,448,NULL),
+  (61,918,NULL),
+  (31,280,NULL),
+  (30,546,NULL),
+  (2,43,NULL),
+  (9,315,NULL),
+  (17,934,NULL),
+  (91,220,NULL),
+  (34,271,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (30,415,NULL),
+  (80,941,NULL),
+  (70,506,NULL),
+  (47,285,NULL),
+  (73,35,NULL),
+  (31,405,NULL),
+  (40,793,NULL),
+  (52,982,NULL),
+  (14,270,NULL),
+  (87,203,NULL),
+  (52,117,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (35,552,NULL),
+  (61,841,NULL),
+  (17,329,NULL),
+  (15,647,NULL),
+  (23,166,NULL),
+  (79,915,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (51,956,NULL),
+  (96,620,NULL),
+  (55,138,NULL),
+  (35,689,NULL),
+  (55,939,NULL),
+  (82,964,NULL),
+  (87,155,NULL),
+  (39,548,NULL),
+  (73,703,NULL),
+  (57,942,NULL),
+  (17,410,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (58,177,NULL),
+  (86,200,NULL),
+  (47,450,NULL),
+  (100,363,NULL),
+  (40,941,NULL),
+  (63,323,NULL),
+  (60,843,NULL),
+  (60,629,NULL),
+  (27,809,NULL),
+  (76,799,NULL),
+  (37,236,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (55,646,NULL),
+  (11,112,NULL),
+  (47,99,NULL),
+  (42,503,NULL),
+  (82,914,NULL),
+  (55,420,NULL),
+  (53,423,NULL),
+  (18,351,NULL),
+  (1,993,NULL),
+  (86,689,NULL),
+  (46,969,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (80,336,NULL),
+  (80,725,NULL),
+  (41,31,NULL),
+  (46,754,NULL),
+  (50,231,NULL),
+  (5,263,NULL),
+  (27,652,NULL),
+  (77,644,NULL),
+  (57,931,NULL),
+  (31,662,NULL),
+  (92,461,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (65,57,NULL),
+  (22,267,NULL),
+  (47,179,NULL),
+  (65,513,NULL),
+  (56,746,NULL),
+  (17,604,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (63,213,NULL),
+  (95,819,NULL),
+  (13,740,NULL),
+  (68,523,NULL),
+  (60,526,NULL),
+  (15,650,NULL),
+  (45,197,NULL),
+  (7,976,NULL),
+  (78,630,NULL),
+  (66,928,NULL),
+  (46,29,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (26,483,NULL),
+  (56,741,NULL),
+  (84,731,NULL),
+  (3,588,NULL),
+  (98,201,NULL),
+  (42,462,NULL),
+  (99,906,NULL),
+  (33,613,NULL),
+  (82,323,NULL),
+  (49,901,NULL),
+  (57,30,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (9,665,NULL),
+  (40,534,NULL),
+  (59,60,NULL),
+  (94,950,NULL),
+  (38,324,NULL),
+  (67,298,NULL),
+  (14,401,NULL),
+  (6,287,NULL),
+  (61,578,NULL),
+  (60,488,NULL),
+  (9,912,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (46,320,NULL),
+  (94,632,NULL),
+  (86,757,NULL),
+  (21,118,NULL),
+  (29,35,NULL),
+  (85,65,NULL),
+  (4,604,NULL),
+  (75,695,NULL),
+  (98,753,NULL),
+  (79,217,NULL),
+  (54,847,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (50,46,NULL),
+  (35,890,NULL),
+  (62,363,NULL),
+  (15,23,NULL),
+  (32,658,NULL),
+  (71,349,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (64,303,NULL),
+  (39,342,NULL),
+  (49,926,NULL),
+  (76,536,NULL),
+  (54,725,NULL),
+  (54,426,NULL),
+  (33,797,NULL),
+  (80,168,NULL),
+  (21,731,NULL),
+  (81,758,NULL),
+  (68,633,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (88,997,NULL),
+  (37,447,NULL),
+  (41,483,NULL),
+  (10,304,NULL),
+  (33,555,NULL),
+  (28,526,NULL),
+  (36,365,NULL),
+  (98,502,NULL),
+  (15,567,NULL),
+  (11,819,NULL),
+  (77,192,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (49,90,NULL),
+  (87,361,NULL),
+  (12,795,NULL),
+  (10,448,NULL),
+  (39,54,NULL),
+  (23,917,NULL),
+  (82,713,NULL),
+  (47,547,NULL),
+  (93,842,NULL),
+  (40,203,NULL),
+  (86,661,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (19,969,NULL),
+  (83,272,NULL),
+  (49,760,NULL),
+  (18,372,NULL),
+  (100,239,NULL),
+  (24,943,NULL),
+  (12,508,NULL),
+  (82,192,NULL),
+  (23,450,NULL),
+  (44,945,NULL),
+  (79,725,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (20,509,NULL),
+  (36,861,NULL),
+  (83,373,NULL),
+  (49,432,NULL),
+  (18,123,NULL),
+  (35,30,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (42,853,NULL),
+  (41,285,NULL),
+  (57,576,NULL),
+  (34,96,NULL),
+  (2,899,NULL),
+  (8,605,NULL),
+  (20,39,NULL),
+  (35,253,NULL),
+  (52,269,NULL),
+  (45,607,NULL),
+  (92,789,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (75,749,NULL),
+  (69,477,NULL),
+  (75,831,NULL),
+  (9,397,NULL),
+  (64,829,NULL),
+  (60,143,NULL),
+  (37,960,NULL),
+  (65,677,NULL),
+  (49,989,NULL),
+  (71,252,NULL),
+  (94,635,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (25,290,NULL),
+  (55,892,NULL),
+  (52,604,NULL),
+  (84,103,NULL),
+  (23,788,NULL),
+  (60,119,NULL),
+  (48,556,NULL),
+  (10,896,NULL),
+  (74,159,NULL),
+  (79,337,NULL),
+  (4,963,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (83,251,NULL),
+  (91,375,NULL),
+  (13,461,NULL),
+  (64,756,NULL),
+  (78,435,NULL),
+  (70,817,NULL),
+  (82,295,NULL),
+  (31,803,NULL),
+  (37,816,NULL),
+  (96,840,NULL),
+  (73,221,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (13,435,NULL),
+  (89,626,NULL),
+  (64,997,NULL),
+  (11,808,NULL),
+  (54,513,NULL),
+  (19,871,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (85,571,NULL),
+  (60,599,NULL),
+  (86,467,NULL),
+  (91,599,NULL),
+  (13,544,NULL),
+  (11,153,NULL),
+  (35,673,NULL),
+  (66,347,NULL),
+  (51,735,NULL),
+  (52,814,NULL),
+  (82,435,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (86,160,NULL),
+  (62,339,NULL),
+  (37,725,NULL),
+  (9,871,NULL),
+  (64,732,NULL),
+  (80,576,NULL),
+  (39,883,NULL),
+  (75,780,NULL),
+  (1,227,NULL),
+  (86,592,NULL),
+  (42,109,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (55,246,NULL),
+  (34,766,NULL),
+  (82,572,NULL),
+  (78,713,NULL),
+  (17,874,NULL),
+  (57,357,NULL),
+  (59,767,NULL),
+  (53,735,NULL),
+  (35,85,NULL),
+  (35,706,NULL),
+  (99,605,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (51,205,NULL),
+  (57,928,NULL),
+  (11,948,NULL),
+  (8,240,NULL),
+  (19,588,NULL),
+  (9,143,NULL),
+  (79,941,NULL),
+  (29,310,NULL),
+  (84,568,NULL),
+  (86,800,NULL),
+  (25,717,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (44,747,NULL),
+  (40,449,NULL),
+  (12,893,NULL),
+  (86,200,NULL),
+  (25,798,NULL),
+  (16,82,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (93,103,NULL),
+  (4,776,NULL),
+  (8,228,NULL),
+  (89,373,NULL),
+  (12,574,NULL),
+  (48,236,NULL),
+  (58,185,NULL),
+  (56,876,NULL),
+  (71,351,NULL),
+  (91,341,NULL),
+  (85,655,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (81,47,NULL),
+  (10,341,NULL),
+  (70,881,NULL),
+  (26,728,NULL),
+  (94,121,NULL),
+  (85,731,NULL),
+  (15,406,NULL),
+  (44,998,NULL),
+  (21,626,NULL),
+  (83,533,NULL),
+  (74,256,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (22,861,NULL),
+  (65,227,NULL),
+  (63,775,NULL),
+  (15,955,NULL),
+  (88,782,NULL),
+  (75,224,NULL),
+  (50,969,NULL),
+  (59,402,NULL),
+  (60,595,NULL),
+  (5,973,NULL),
+  (70,587,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (2,648,NULL),
+  (92,128,NULL),
+  (83,692,NULL),
+  (55,68,NULL),
+  (14,39,NULL),
+  (5,652,NULL),
+  (47,716,NULL),
+  (93,911,NULL),
+  (90,434,NULL),
+  (78,827,NULL),
+  (75,202,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (83,673,NULL),
+  (58,682,NULL),
+  (86,183,NULL),
+  (89,415,NULL),
+  (14,438,NULL),
+  (81,836,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (81,50,NULL),
+  (71,554,NULL),
+  (60,282,NULL),
+  (46,737,NULL),
+  (32,869,NULL),
+  (56,681,NULL),
+  (47,474,NULL),
+  (84,53,NULL),
+  (18,210,NULL),
+  (37,488,NULL),
+  (87,608,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (95,862,NULL),
+  (21,251,NULL),
+  (49,520,NULL),
+  (75,677,NULL),
+  (36,136,NULL),
+  (4,798,NULL),
+  (65,867,NULL),
+  (25,913,NULL),
+  (95,729,NULL),
+  (29,187,NULL),
+  (81,822,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (14,222,NULL),
+  (48,992,NULL),
+  (40,926,NULL),
+  (7,838,NULL),
+  (73,907,NULL),
+  (68,584,NULL),
+  (93,150,NULL),
+  (83,352,NULL),
+  (36,208,NULL),
+  (97,672,NULL),
+  (55,973,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (62,489,NULL),
+  (64,696,NULL),
+  (47,946,NULL),
+  (23,137,NULL),
+  (41,532,NULL),
+  (15,468,NULL),
+  (8,508,NULL),
+  (88,379,NULL),
+  (7,437,NULL),
+  (8,612,NULL),
+  (60,99,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (37,919,NULL),
+  (84,251,NULL),
+  (75,376,NULL),
+  (75,353,NULL),
+  (84,410,NULL),
+  (93,138,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (50,40,NULL),
+  (36,224,NULL),
+  (24,234,NULL),
+  (13,35,NULL),
+  (64,530,NULL),
+  (99,972,NULL),
+  (3,36,NULL),
+  (15,763,NULL),
+  (70,130,NULL),
+  (19,535,NULL),
+  (48,35,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (7,826,NULL),
+  (66,425,NULL),
+  (91,828,NULL),
+  (74,877,NULL),
+  (4,327,NULL),
+  (62,944,NULL),
+  (50,971,NULL),
+  (30,40,NULL),
+  (15,962,NULL),
+  (73,842,NULL),
+  (41,505,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (22,248,NULL),
+  (91,35,NULL),
+  (50,886,NULL),
+  (50,374,NULL),
+  (4,726,NULL),
+  (71,7,NULL),
+  (38,878,NULL),
+  (8,242,NULL),
+  (47,461,NULL),
+  (25,358,NULL),
+  (26,79,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (8,149,NULL),
+  (69,624,NULL),
+  (18,693,NULL),
+  (57,559,NULL),
+  (87,828,NULL),
+  (23,340,NULL),
+  (52,171,NULL),
+  (7,568,NULL),
+  (73,285,NULL),
+  (75,257,NULL),
+  (37,582,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (70,470,NULL),
+  (41,58,NULL),
+  (16,820,NULL),
+  (16,493,NULL),
+  (82,289,NULL),
+  (79,138,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (39,329,NULL),
+  (80,597,NULL),
+  (84,772,NULL),
+  (24,102,NULL),
+  (57,918,NULL),
+  (63,323,NULL),
+  (43,428,NULL),
+  (48,133,NULL),
+  (72,246,NULL),
+  (74,653,NULL),
+  (39,274,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (2,680,NULL),
+  (18,201,NULL),
+  (84,800,NULL),
+  (27,90,NULL),
+  (62,40,NULL),
+  (39,673,NULL),
+  (61,193,NULL),
+  (58,17,NULL),
+  (98,532,NULL),
+  (83,69,NULL),
+  (96,267,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (52,933,NULL),
+  (27,58,NULL),
+  (46,14,NULL),
+  (45,333,NULL),
+  (64,356,NULL),
+  (65,703,NULL),
+  (78,645,NULL),
+  (4,288,NULL),
+  (69,480,NULL),
+  (79,896,NULL),
+  (79,382,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (31,346,NULL),
+  (66,331,NULL),
+  (88,22,NULL),
+  (67,154,NULL),
+  (64,123,NULL),
+  (85,345,NULL),
+  (9,387,NULL),
+  (54,93,NULL),
+  (5,144,NULL),
+  (26,191,NULL),
+  (71,109,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (34,540,NULL),
+  (49,762,NULL),
+  (29,853,NULL),
+  (68,111,NULL),
+  (68,544,NULL),
+  (76,372,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (38,738,NULL),
+  (18,102,NULL),
+  (43,851,NULL),
+  (37,709,NULL),
+  (52,333,NULL),
+  (19,241,NULL),
+  (68,764,NULL),
+  (10,251,NULL),
+  (59,757,NULL),
+  (67,963,NULL),
+  (24,871,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (74,166,NULL),
+  (14,315,NULL),
+  (83,766,NULL),
+  (38,128,NULL),
+  (57,667,NULL),
+  (29,479,NULL),
+  (65,500,NULL),
+  (56,20,NULL),
+  (65,36,NULL),
+  (46,69,NULL),
+  (72,767,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (69,944,NULL),
+  (82,996,NULL),
+  (58,741,NULL),
+  (71,244,NULL),
+  (26,851,NULL),
+  (29,394,NULL),
+  (55,432,NULL),
+  (81,147,NULL),
+  (50,177,NULL),
+  (64,868,NULL),
+  (93,317,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (42,588,NULL),
+  (33,517,NULL),
+  (92,830,NULL),
+  (64,276,NULL),
+  (10,71,NULL),
+  (38,142,NULL),
+  (95,407,NULL),
+  (70,865,NULL),
+  (85,55,NULL),
+  (5,951,NULL),
+  (17,851,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (57,959,NULL),
+  (46,664,NULL),
+  (26,830,NULL),
+  (9,33,NULL),
+  (63,383,NULL),
+  (57,568,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (85,783,NULL),
+  (18,662,NULL),
+  (41,112,NULL),
+  (78,415,NULL),
+  (35,142,NULL),
+  (48,362,NULL),
+  (33,626,NULL),
+  (88,450,NULL),
+  (76,552,NULL),
+  (2,50,NULL),
+  (14,400,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (33,657,NULL),
+  (46,635,NULL),
+  (88,299,NULL),
+  (34,40,NULL),
+  (89,938,NULL),
+  (77,322,NULL),
+  (82,402,NULL),
+  (44,870,NULL),
+  (30,633,NULL),
+  (18,567,NULL),
+  (13,851,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (100,137,NULL),
+  (5,232,NULL),
+  (45,892,NULL),
+  (95,858,NULL),
+  (97,6,NULL),
+  (48,174,NULL),
+  (47,715,NULL),
+  (70,655,NULL),
+  (65,280,NULL),
+  (27,78,NULL),
+  (36,98,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (74,620,NULL),
+  (9,374,NULL),
+  (54,706,NULL),
+  (70,93,NULL),
+  (82,721,NULL),
+  (47,50,NULL),
+  (21,665,NULL),
+  (45,43,NULL),
+  (41,355,NULL),
+  (87,151,NULL),
+  (3,518,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (74,519,NULL),
+  (78,177,NULL),
+  (4,317,NULL),
+  (29,540,NULL),
+  (62,178,NULL),
+  (28,351,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (33,197,NULL),
+  (55,245,NULL),
+  (12,374,NULL),
+  (69,807,NULL),
+  (62,690,NULL),
+  (98,709,NULL),
+  (89,276,NULL),
+  (32,280,NULL),
+  (78,986,NULL),
+  (41,964,NULL),
+  (63,846,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (45,491,NULL),
+  (82,758,NULL),
+  (24,273,NULL),
+  (14,740,NULL),
+  (50,977,NULL),
+  (43,953,NULL),
+  (96,42,NULL),
+  (25,10,NULL),
+  (60,825,NULL),
+  (33,9,NULL),
+  (32,857,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (82,55,NULL),
+  (49,515,NULL),
+  (67,754,NULL),
+  (21,242,NULL),
+  (74,697,NULL),
+  (81,38,NULL),
+  (83,429,NULL),
+  (84,693,NULL),
+  (27,261,NULL),
+  (92,576,NULL),
+  (44,994,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (6,94,NULL),
+  (40,33,NULL),
+  (73,573,NULL),
+  (67,77,NULL),
+  (92,640,NULL),
+  (17,487,NULL),
+  (24,544,NULL),
+  (64,791,NULL),
+  (82,266,NULL),
+  (82,123,NULL),
+  (19,36,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (47,619,NULL),
+  (37,247,NULL),
+  (90,459,NULL),
+  (65,878,NULL),
+  (85,268,NULL),
+  (9,367,NULL);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (7,NULL,261),
+  (14,NULL,246),
+  (66,NULL,249),
+  (42,NULL,339),
+  (38,NULL,336),
+  (74,NULL,181),
+  (9,NULL,243),
+  (13,NULL,216),
+  (33,NULL,92),
+  (80,NULL,231),
+  (29,NULL,110);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (81,NULL,194),
+  (47,NULL,112),
+  (73,NULL,195),
+  (12,NULL,380),
+  (86,NULL,364),
+  (43,NULL,298),
+  (81,NULL,160),
+  (67,NULL,81),
+  (72,NULL,106),
+  (8,NULL,91),
+  (34,NULL,4);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (3,NULL,171),
+  (4,NULL,239),
+  (20,NULL,73),
+  (28,NULL,296),
+  (64,NULL,393),
+  (63,NULL,26),
+  (38,NULL,302),
+  (83,NULL,163),
+  (68,NULL,27),
+  (82,NULL,69),
+  (95,NULL,31);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (94,NULL,157),
+  (95,NULL,141),
+  (2,NULL,62),
+  (65,NULL,126),
+  (10,NULL,110),
+  (80,NULL,93),
+  (100,NULL,254),
+  (45,NULL,187),
+  (63,NULL,370),
+  (94,NULL,73),
+  (28,NULL,46);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (61,NULL,315),
+  (74,NULL,128),
+  (23,NULL,102),
+  (58,NULL,45),
+  (6,NULL,82),
+  (56,NULL,220);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (91,NULL,204),
+  (78,NULL,239),
+  (12,NULL,371),
+  (43,NULL,102),
+  (46,NULL,348),
+  (80,NULL,15),
+  (53,NULL,348),
+  (99,NULL,165),
+  (57,NULL,368),
+  (75,NULL,368),
+  (61,NULL,364);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (39,NULL,31),
+  (86,NULL,300),
+  (41,NULL,312),
+  (63,NULL,320),
+  (52,NULL,78),
+  (28,NULL,246),
+  (9,NULL,73),
+  (3,NULL,329),
+  (85,NULL,382),
+  (67,NULL,399),
+  (24,NULL,250);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (58,NULL,96),
+  (38,NULL,308),
+  (63,NULL,371),
+  (66,NULL,235),
+  (60,NULL,308),
+  (30,NULL,225),
+  (62,NULL,215),
+  (66,NULL,224),
+  (69,NULL,376),
+  (50,NULL,344),
+  (40,NULL,96);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (44,NULL,171),
+  (37,NULL,224),
+  (77,NULL,228),
+  (92,NULL,385),
+  (65,NULL,387),
+  (62,NULL,127),
+  (67,NULL,35),
+  (72,NULL,24),
+  (52,NULL,87),
+  (27,NULL,186),
+  (49,NULL,319);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (49,NULL,149),
+  (68,NULL,266),
+  (26,NULL,92),
+  (2,NULL,197),
+  (91,NULL,74),
+  (79,NULL,78);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (98,NULL,43),
+  (90,NULL,196),
+  (6,NULL,225),
+  (13,NULL,383),
+  (86,NULL,249),
+  (35,NULL,138),
+  (66,NULL,2),
+  (53,NULL,92),
+  (85,NULL,181),
+  (32,NULL,339),
+  (8,NULL,79);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (25,NULL,348),
+  (19,NULL,60),
+  (99,NULL,294),
+  (77,NULL,340),
+  (69,NULL,295),
+  (5,NULL,84),
+  (100,NULL,355),
+  (96,NULL,286),
+  (30,NULL,387),
+  (30,NULL,256),
+  (32,NULL,39);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (93,NULL,11),
+  (94,NULL,392),
+  (93,NULL,380),
+  (91,NULL,237),
+  (14,NULL,377),
+  (53,NULL,326),
+  (96,NULL,169),
+  (44,NULL,290),
+  (43,NULL,192),
+  (100,NULL,304),
+  (21,NULL,111);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (66,NULL,66),
+  (2,NULL,283),
+  (43,NULL,88),
+  (37,NULL,201),
+  (69,NULL,243),
+  (72,NULL,365),
+  (72,NULL,158),
+  (18,NULL,1),
+  (70,NULL,8),
+  (56,NULL,216),
+  (26,NULL,262);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (14,NULL,135),
+  (91,NULL,332),
+  (37,NULL,173),
+  (92,NULL,352),
+  (29,NULL,331),
+  (65,NULL,80);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (70,NULL,143),
+  (44,NULL,32),
+  (26,NULL,47),
+  (89,NULL,95),
+  (42,NULL,206),
+  (85,NULL,203),
+  (99,NULL,68),
+  (67,NULL,40),
+  (28,NULL,341),
+  (92,NULL,253),
+  (26,NULL,118);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (43,NULL,7),
+  (48,NULL,324),
+  (38,NULL,137),
+  (75,NULL,44),
+  (68,NULL,263),
+  (23,NULL,149),
+  (15,NULL,160),
+  (95,NULL,375),
+  (46,NULL,277),
+  (10,NULL,363),
+  (85,NULL,198);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (54,NULL,322),
+  (80,NULL,253),
+  (11,NULL,99),
+  (10,NULL,268),
+  (4,NULL,45),
+  (6,NULL,53),
+  (84,NULL,86),
+  (16,NULL,277),
+  (80,NULL,374),
+  (45,NULL,179),
+  (91,NULL,255);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (22,NULL,96),
+  (68,NULL,202),
+  (29,NULL,142),
+  (45,NULL,388),
+  (33,NULL,12),
+  (14,NULL,34),
+  (43,NULL,356),
+  (58,NULL,27),
+  (66,NULL,109),
+  (46,NULL,324),
+  (90,NULL,34);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (65,NULL,26),
+  (55,NULL,293),
+  (67,NULL,215),
+  (27,NULL,95),
+  (13,NULL,157),
+  (20,NULL,29);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (76,NULL,341),
+  (47,NULL,332),
+  (44,NULL,329),
+  (98,NULL,158),
+  (96,NULL,31),
+  (91,NULL,44),
+  (38,NULL,266),
+  (4,NULL,19),
+  (82,NULL,392),
+  (83,NULL,296),
+  (10,NULL,277);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (14,NULL,272),
+  (83,NULL,393),
+  (14,NULL,56),
+  (16,NULL,250),
+  (9,NULL,171),
+  (57,NULL,322),
+  (49,NULL,24),
+  (24,NULL,162),
+  (31,NULL,8),
+  (18,NULL,326),
+  (43,NULL,383);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (28,NULL,241),
+  (49,NULL,38),
+  (94,NULL,316),
+  (44,NULL,71),
+  (26,NULL,83),
+  (76,NULL,11),
+  (74,NULL,325),
+  (24,NULL,125),
+  (61,NULL,190),
+  (28,NULL,307),
+  (17,NULL,357);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (83,NULL,163),
+  (6,NULL,55),
+  (52,NULL,344),
+  (61,NULL,354),
+  (69,NULL,386),
+  (43,NULL,258),
+  (59,NULL,299),
+  (29,NULL,390),
+  (72,NULL,163),
+  (59,NULL,330),
+  (95,NULL,385);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (37,NULL,260),
+  (86,NULL,154),
+  (46,NULL,315),
+  (96,NULL,12),
+  (20,NULL,365),
+  (58,NULL,317);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (40,NULL,74),
+  (35,NULL,384),
+  (1,NULL,110),
+  (46,NULL,53),
+  (90,NULL,376),
+  (22,NULL,110),
+  (55,NULL,174),
+  (24,NULL,95),
+  (21,NULL,31),
+  (80,NULL,159),
+  (26,NULL,400);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (52,NULL,302),
+  (84,NULL,362),
+  (87,NULL,252),
+  (35,NULL,199),
+  (53,NULL,350),
+  (45,NULL,82),
+  (2,NULL,152),
+  (9,NULL,102),
+  (78,NULL,54),
+  (4,NULL,278),
+  (72,NULL,61);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (87,NULL,210),
+  (68,NULL,52),
+  (16,NULL,291),
+  (84,NULL,182),
+  (42,NULL,159),
+  (20,NULL,216),
+  (86,NULL,175),
+  (34,NULL,143),
+  (13,NULL,4),
+  (92,NULL,263),
+  (19,NULL,297);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (66,NULL,332),
+  (78,NULL,211),
+  (46,NULL,315),
+  (35,NULL,83),
+  (17,NULL,190),
+  (33,NULL,355),
+  (41,NULL,79),
+  (46,NULL,127),
+  (20,NULL,6),
+  (26,NULL,69),
+  (3,NULL,45);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (68,NULL,46),
+  (48,NULL,221),
+  (19,NULL,400),
+  (18,NULL,352),
+  (63,NULL,75),
+  (17,NULL,48);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (76,NULL,250),
+  (21,NULL,120),
+  (97,NULL,164),
+  (49,NULL,22),
+  (93,NULL,359),
+  (44,NULL,68),
+  (60,NULL,215),
+  (58,NULL,176),
+  (97,NULL,200),
+  (85,NULL,112),
+  (33,NULL,181);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (42,NULL,207),
+  (80,NULL,250),
+  (36,NULL,57),
+  (62,NULL,231),
+  (78,NULL,27),
+  (68,NULL,374),
+  (52,NULL,149),
+  (21,NULL,344),
+  (15,NULL,314),
+  (26,NULL,224),
+  (58,NULL,314);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (58,NULL,142),
+  (56,NULL,251),
+  (27,NULL,210),
+  (86,NULL,249),
+  (43,NULL,73),
+  (30,NULL,153),
+  (28,NULL,85),
+  (33,NULL,252),
+  (95,NULL,258),
+  (56,NULL,227),
+  (14,NULL,166);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (81,NULL,315),
+  (88,NULL,55),
+  (11,NULL,84),
+  (85,NULL,212),
+  (75,NULL,195),
+  (38,NULL,53),
+  (83,NULL,236),
+  (91,NULL,234),
+  (83,NULL,46),
+  (16,NULL,65),
+  (34,NULL,400);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (5,NULL,314),
+  (18,NULL,299),
+  (15,NULL,42),
+  (77,NULL,231),
+  (46,NULL,62),
+  (85,NULL,268);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (71,NULL,165),
+  (42,NULL,42),
+  (58,NULL,156),
+  (91,NULL,112),
+  (77,NULL,63),
+  (36,NULL,119),
+  (65,NULL,45),
+  (48,NULL,9),
+  (48,NULL,166),
+  (18,NULL,209),
+  (62,NULL,148);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (17,NULL,117),
+  (33,NULL,373),
+  (90,NULL,270),
+  (55,NULL,284),
+  (52,NULL,55),
+  (77,NULL,170),
+  (56,NULL,246),
+  (44,NULL,158),
+  (47,NULL,118),
+  (27,NULL,187),
+  (56,NULL,376);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (40,NULL,398),
+  (21,NULL,246),
+  (52,NULL,389),
+  (73,NULL,274),
+  (16,NULL,258),
+  (3,NULL,13),
+  (82,NULL,103),
+  (90,NULL,100),
+  (48,NULL,201),
+  (20,NULL,362),
+  (31,NULL,128);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (73,NULL,148),
+  (13,NULL,233),
+  (75,NULL,23),
+  (3,NULL,132),
+  (94,NULL,141),
+  (33,NULL,300),
+  (69,NULL,291),
+  (3,NULL,244),
+  (24,NULL,283),
+  (55,NULL,390),
+  (54,NULL,140);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (66,NULL,61),
+  (94,NULL,88),
+  (30,NULL,150),
+  (5,NULL,164),
+  (92,NULL,264),
+  (66,NULL,161);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (8,NULL,323),
+  (95,NULL,185),
+  (44,NULL,301),
+  (54,NULL,130),
+  (13,NULL,324),
+  (52,NULL,198),
+  (62,NULL,223),
+  (96,NULL,149),
+  (53,NULL,39),
+  (97,NULL,228),
+  (87,NULL,9);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (39,NULL,205),
+  (75,NULL,274),
+  (20,NULL,108),
+  (57,NULL,285),
+  (8,NULL,224),
+  (12,NULL,181),
+  (35,NULL,185),
+  (88,NULL,232),
+  (72,NULL,202),
+  (50,NULL,302),
+  (68,NULL,231);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (68,NULL,159),
+  (1,NULL,63),
+  (50,NULL,355),
+  (76,NULL,151),
+  (23,NULL,387),
+  (81,NULL,256),
+  (2,NULL,128),
+  (68,NULL,258),
+  (61,NULL,203),
+  (18,NULL,378),
+  (75,NULL,182);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (55,NULL,137),
+  (2,NULL,32),
+  (91,NULL,306),
+  (42,NULL,391),
+  (58,NULL,44),
+  (98,NULL,262),
+  (91,NULL,322),
+  (52,NULL,115),
+  (20,NULL,273),
+  (39,NULL,138),
+  (65,NULL,43);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (28,NULL,248),
+  (89,NULL,124),
+  (78,NULL,3),
+  (79,NULL,109),
+  (25,NULL,47),
+  (16,NULL,253);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (66,NULL,230),
+  (84,NULL,126),
+  (44,NULL,269),
+  (16,NULL,264),
+  (89,NULL,256),
+  (6,NULL,368),
+  (29,NULL,103),
+  (91,NULL,16),
+  (94,NULL,384),
+  (20,NULL,348),
+  (69,NULL,397);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (95,NULL,292),
+  (43,NULL,204),
+  (38,NULL,162),
+  (78,NULL,87),
+  (55,NULL,120),
+  (21,NULL,221),
+  (25,NULL,214),
+  (4,NULL,181),
+  (47,NULL,151),
+  (3,NULL,369),
+  (99,NULL,219);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (45,NULL,189),
+  (86,NULL,38),
+  (29,NULL,141),
+  (24,NULL,184),
+  (2,NULL,28),
+  (22,NULL,159),
+  (9,NULL,202),
+  (80,NULL,183),
+  (29,NULL,334),
+  (11,NULL,69),
+  (40,NULL,212);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (31,NULL,353),
+  (68,NULL,258),
+  (27,NULL,275),
+  (5,NULL,233),
+  (16,NULL,378),
+  (26,NULL,295),
+  (89,NULL,260),
+  (13,NULL,70),
+  (77,NULL,265),
+  (66,NULL,359),
+  (5,NULL,201);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (3,NULL,123),
+  (81,NULL,162),
+  (25,NULL,384),
+  (46,NULL,258),
+  (10,NULL,314),
+  (18,NULL,172);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (65,NULL,100),
+  (97,NULL,190),
+  (78,NULL,59),
+  (98,NULL,188),
+  (86,NULL,59),
+  (45,NULL,226),
+  (23,NULL,111),
+  (79,NULL,5),
+  (74,NULL,165),
+  (88,NULL,97),
+  (94,NULL,238);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (96,NULL,309),
+  (75,NULL,181),
+  (57,NULL,314),
+  (36,NULL,132),
+  (6,NULL,89),
+  (55,NULL,97),
+  (53,NULL,116),
+  (70,NULL,27),
+  (24,NULL,53),
+  (46,NULL,167),
+  (69,NULL,262);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (38,NULL,213),
+  (75,NULL,284),
+  (39,NULL,299),
+  (13,NULL,27),
+  (86,NULL,239),
+  (32,NULL,286),
+  (31,NULL,237),
+  (44,NULL,222),
+  (41,NULL,12),
+  (17,NULL,226),
+  (52,NULL,87);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (59,NULL,370),
+  (92,NULL,367),
+  (46,NULL,349),
+  (44,NULL,59),
+  (62,NULL,134),
+  (8,NULL,296),
+  (69,NULL,280),
+  (97,NULL,19),
+  (60,NULL,37),
+  (11,NULL,383),
+  (95,NULL,396);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (40,NULL,298),
+  (22,NULL,287),
+  (86,NULL,320),
+  (26,NULL,39),
+  (65,NULL,143),
+  (93,NULL,271);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (33,NULL,4),
+  (48,NULL,172),
+  (6,NULL,10),
+  (93,NULL,43),
+  (93,NULL,42),
+  (53,NULL,149),
+  (56,NULL,215),
+  (44,NULL,365),
+  (52,NULL,115),
+  (61,NULL,89),
+  (28,NULL,276);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (70,NULL,271),
+  (56,NULL,219),
+  (62,NULL,150),
+  (50,NULL,341),
+  (2,NULL,383),
+  (53,NULL,341),
+  (54,NULL,230),
+  (56,NULL,398),
+  (43,NULL,127),
+  (36,NULL,349),
+  (57,NULL,119);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (45,NULL,207),
+  (38,NULL,126),
+  (16,NULL,26),
+  (18,NULL,300),
+  (26,NULL,54),
+  (45,NULL,124),
+  (54,NULL,349),
+  (28,NULL,70),
+  (73,NULL,64),
+  (76,NULL,8),
+  (87,NULL,47);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (66,NULL,315),
+  (97,NULL,251),
+  (96,NULL,307),
+  (87,NULL,359),
+  (77,NULL,270),
+  (64,NULL,346),
+  (10,NULL,307),
+  (30,NULL,256),
+  (6,NULL,61),
+  (37,NULL,188),
+  (15,NULL,68);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (70,NULL,183),
+  (32,NULL,309),
+  (76,NULL,148),
+  (18,NULL,180),
+  (32,NULL,75),
+  (19,NULL,117);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (58,NULL,223),
+  (89,NULL,187),
+  (89,NULL,27),
+  (76,NULL,3),
+  (68,NULL,364),
+  (97,NULL,238),
+  (11,NULL,125),
+  (51,NULL,39),
+  (68,NULL,177),
+  (53,NULL,330),
+  (89,NULL,308);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (49,NULL,230),
+  (97,NULL,356),
+  (62,NULL,40),
+  (36,NULL,385),
+  (47,NULL,272),
+  (64,NULL,61),
+  (75,NULL,8),
+  (29,NULL,152),
+  (65,NULL,135),
+  (98,NULL,115),
+  (68,NULL,54);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (7,NULL,119),
+  (7,NULL,131),
+  (69,NULL,49),
+  (98,NULL,3),
+  (11,NULL,20),
+  (74,NULL,224),
+  (55,NULL,318),
+  (46,NULL,98),
+  (63,NULL,278),
+  (60,NULL,281),
+  (29,NULL,194);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (33,NULL,189),
+  (18,NULL,142),
+  (97,NULL,391),
+  (98,NULL,168),
+  (38,NULL,119),
+  (69,NULL,370),
+  (50,NULL,86),
+  (66,NULL,353),
+  (23,NULL,11),
+  (40,NULL,115),
+  (68,NULL,100);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (72,NULL,255),
+  (14,NULL,70),
+  (2,NULL,366),
+  (9,NULL,27),
+  (9,NULL,203),
+  (11,NULL,224);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (52,NULL,211),
+  (3,NULL,141),
+  (59,NULL,79),
+  (100,NULL,251),
+  (21,NULL,383),
+  (10,NULL,264),
+  (70,NULL,184),
+  (84,NULL,180),
+  (73,NULL,334),
+  (64,NULL,390),
+  (60,NULL,115);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (90,NULL,162),
+  (5,NULL,204),
+  (1,NULL,358),
+  (57,NULL,176),
+  (86,NULL,327),
+  (21,NULL,35),
+  (86,NULL,168),
+  (67,NULL,295),
+  (71,NULL,279),
+  (22,NULL,387),
+  (100,NULL,243);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (49,NULL,363),
+  (44,NULL,175),
+  (97,NULL,339),
+  (2,NULL,14),
+  (92,NULL,265),
+  (39,NULL,79),
+  (67,NULL,265),
+  (44,NULL,289),
+  (47,NULL,326),
+  (63,NULL,88),
+  (5,NULL,147);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (65,NULL,134),
+  (51,NULL,312),
+  (15,NULL,154),
+  (80,NULL,105),
+  (91,NULL,370),
+  (37,NULL,80),
+  (58,NULL,135),
+  (95,NULL,19),
+  (18,NULL,35),
+  (64,NULL,339),
+  (27,NULL,19);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (70,NULL,358),
+  (99,NULL,188),
+  (58,NULL,19),
+  (76,NULL,85),
+  (68,NULL,33),
+  (80,NULL,27);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (96,NULL,359),
+  (86,NULL,332),
+  (81,NULL,100),
+  (21,NULL,267),
+  (55,NULL,297),
+  (14,NULL,8),
+  (14,NULL,252),
+  (66,NULL,219),
+  (12,NULL,212),
+  (29,NULL,30),
+  (56,NULL,66);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (32,NULL,340),
+  (52,NULL,54),
+  (18,NULL,329),
+  (9,NULL,367),
+  (27,NULL,3),
+  (98,NULL,372),
+  (70,NULL,178),
+  (5,NULL,263),
+  (21,NULL,342),
+  (29,NULL,30),
+  (69,NULL,145);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (93,NULL,142),
+  (33,NULL,66),
+  (2,NULL,38),
+  (57,NULL,57),
+  (62,NULL,218),
+  (13,NULL,359),
+  (4,NULL,321),
+  (54,NULL,323),
+  (72,NULL,196),
+  (73,NULL,187),
+  (89,NULL,100);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (42,NULL,394),
+  (66,NULL,223),
+  (26,NULL,42),
+  (89,NULL,256),
+  (58,NULL,141),
+  (29,NULL,324),
+  (61,NULL,103),
+  (36,NULL,182),
+  (54,NULL,364),
+  (45,NULL,321),
+  (97,NULL,91);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (88,NULL,8),
+  (70,NULL,224),
+  (81,NULL,288),
+  (71,NULL,397),
+  (3,NULL,223),
+  (99,NULL,253);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (86,NULL,390),
+  (66,NULL,124),
+  (43,NULL,256),
+  (19,NULL,281),
+  (71,NULL,147),
+  (42,NULL,215),
+  (76,NULL,92),
+  (47,NULL,274),
+  (59,NULL,61),
+  (90,NULL,280),
+  (43,NULL,289);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (22,NULL,180),
+  (62,NULL,152),
+  (81,NULL,330),
+  (67,NULL,185),
+  (30,NULL,217),
+  (96,NULL,45),
+  (51,NULL,61),
+  (49,NULL,335),
+  (70,NULL,308),
+  (42,NULL,315),
+  (37,NULL,319);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (62,NULL,311),
+  (47,NULL,389),
+  (38,NULL,117),
+  (91,NULL,17),
+  (84,NULL,170),
+  (48,NULL,348),
+  (84,NULL,154),
+  (90,NULL,311),
+  (32,NULL,283),
+  (7,NULL,235),
+  (11,NULL,390);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (39,NULL,359),
+  (13,NULL,48),
+  (56,NULL,175),
+  (28,NULL,74),
+  (87,NULL,360),
+  (56,NULL,302),
+  (60,NULL,349),
+  (69,NULL,203),
+  (23,NULL,335),
+  (2,NULL,24),
+  (34,NULL,60);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (62,NULL,312),
+  (11,NULL,306),
+  (29,NULL,215),
+  (69,NULL,180),
+  (22,NULL,163),
+  (86,NULL,118);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (62,NULL,395),
+  (42,NULL,19),
+  (19,NULL,297),
+  (67,NULL,80),
+  (37,NULL,244),
+  (56,NULL,42),
+  (73,NULL,10),
+  (21,NULL,261),
+  (6,NULL,139),
+  (6,NULL,279),
+  (10,NULL,196);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (36,NULL,223),
+  (52,NULL,284),
+  (24,NULL,226),
+  (57,NULL,365),
+  (3,NULL,358),
+  (43,NULL,103),
+  (36,NULL,92),
+  (9,NULL,314),
+  (83,NULL,61),
+  (66,NULL,121),
+  (7,NULL,64);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (6,NULL,286),
+  (43,NULL,115),
+  (48,NULL,83),
+  (85,NULL,373),
+  (83,NULL,301),
+  (68,NULL,234),
+  (81,NULL,304),
+  (40,NULL,347),
+  (36,NULL,358),
+  (1,NULL,368),
+  (4,NULL,104);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (33,NULL,237),
+  (10,NULL,155),
+  (81,NULL,357),
+  (51,NULL,263),
+  (77,NULL,371),
+  (7,NULL,394),
+  (9,NULL,193),
+  (36,NULL,46),
+  (6,NULL,329),
+  (31,NULL,24),
+  (4,NULL,235);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (89,NULL,380),
+  (55,NULL,307),
+  (7,NULL,190),
+  (59,NULL,221),
+  (91,NULL,182),
+  (54,NULL,124);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (84,NULL,319),
+  (71,NULL,330),
+  (7,NULL,16),
+  (70,NULL,18),
+  (38,NULL,189),
+  (76,NULL,70),
+  (56,NULL,255),
+  (86,NULL,285),
+  (51,NULL,377),
+  (83,NULL,209),
+  (14,NULL,192);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (41,NULL,11),
+  (5,NULL,209),
+  (5,NULL,377),
+  (50,NULL,44),
+  (35,NULL,372),
+  (26,NULL,279),
+  (62,NULL,230),
+  (32,NULL,35),
+  (87,NULL,201),
+  (86,NULL,364),
+  (87,NULL,42);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (21,NULL,382),
+  (30,NULL,292),
+  (27,NULL,265),
+  (33,NULL,236),
+  (94,NULL,61),
+  (80,NULL,291),
+  (38,NULL,128),
+  (92,NULL,183),
+  (34,NULL,287),
+  (3,NULL,108),
+  (98,NULL,387);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (26,NULL,171),
+  (83,NULL,331),
+  (62,NULL,342),
+  (67,NULL,4),
+  (47,NULL,159),
+  (32,NULL,106),
+  (89,NULL,147),
+  (60,NULL,76),
+  (17,NULL,291),
+  (6,NULL,39),
+  (34,NULL,176);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (85,NULL,306),
+  (8,NULL,289),
+  (16,NULL,283),
+  (56,NULL,360),
+  (9,NULL,91),
+  (84,NULL,24);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (43,NULL,358),
+  (22,NULL,233),
+  (9,NULL,232),
+  (88,NULL,94),
+  (65,NULL,33),
+  (67,NULL,63),
+  (56,NULL,332),
+  (54,NULL,174),
+  (68,NULL,314),
+  (82,NULL,390),
+  (5,NULL,166);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (21,NULL,54),
+  (17,NULL,25),
+  (44,NULL,242),
+  (84,NULL,314),
+  (92,NULL,325),
+  (21,NULL,286),
+  (76,NULL,204),
+  (94,NULL,271),
+  (74,NULL,42),
+  (36,NULL,46),
+  (42,NULL,214);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (87,NULL,31),
+  (74,NULL,292),
+  (5,NULL,184),
+  (36,NULL,235),
+  (48,NULL,78),
+  (22,NULL,184),
+  (43,NULL,194),
+  (53,NULL,313),
+  (16,NULL,371),
+  (58,NULL,187),
+  (80,NULL,9);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (91,NULL,45),
+  (79,NULL,212),
+  (51,NULL,240),
+  (75,NULL,214),
+  (60,NULL,161),
+  (12,NULL,41),
+  (44,NULL,23),
+  (36,NULL,12),
+  (22,NULL,64),
+  (91,NULL,126),
+  (23,NULL,384);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (76,NULL,233),
+  (84,NULL,189),
+  (38,NULL,4),
+  (23,NULL,390),
+  (18,NULL,51),
+  (38,NULL,125);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (42,NULL,220),
+  (74,NULL,111),
+  (78,NULL,84),
+  (10,NULL,222),
+  (13,NULL,244),
+  (21,NULL,212),
+  (27,NULL,347),
+  (65,NULL,113),
+  (70,NULL,137),
+  (77,NULL,119),
+  (46,NULL,229);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (9,NULL,173),
+  (21,NULL,269),
+  (76,NULL,337),
+  (45,NULL,27),
+  (24,NULL,334),
+  (18,NULL,268),
+  (20,NULL,8),
+  (7,NULL,206),
+  (86,NULL,191),
+  (50,NULL,44),
+  (89,NULL,134);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (62,NULL,82),
+  (63,NULL,36),
+  (25,NULL,109),
+  (19,NULL,285),
+  (6,NULL,336),
+  (33,NULL,16),
+  (37,NULL,242),
+  (81,NULL,21),
+  (5,NULL,285),
+  (59,NULL,10),
+  (53,NULL,130);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (5,NULL,40),
+  (57,NULL,108),
+  (40,NULL,207),
+  (79,NULL,188),
+  (64,NULL,3),
+  (9,NULL,400),
+  (63,NULL,134),
+  (9,NULL,115),
+  (76,NULL,109),
+  (99,NULL,50),
+  (18,NULL,341);
+INSERT INTO multiple_student_lesson (student_id,ensemble_id,group_lesson_id)
+VALUES
+  (2,NULL,394),
+  (96,NULL,123),
+  (34,NULL,56),
+  (68,NULL,258),
+  (26,NULL,348),
+  (46,NULL,262);

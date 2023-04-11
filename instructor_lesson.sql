@@ -3,7 +3,7 @@ SELECT *
 FROM
 (
     SELECT 
-        COALESCE(month, '2022-03') AS date, 
+        COALESCE(month, '2023-03') AS date, 
         name, 
         (COALESCE(individual_lesson, 0) + COALESCE(group_lesson, 0) + COALESCE(ensemble, 0)) AS total
     FROM 
@@ -24,7 +24,7 @@ FROM
         JOIN lesson AS l 
         ON l.lesson_id = i.lesson_id 
         WHERE 
-            CAST(i.date AS VARCHAR(25)) LIKE '2022-03%'
+            CAST(i.date AS VARCHAR(25)) LIKE '2023-03%'
         GROUP BY month, l.instructor_id
         ) AS m1 
         ON id = m1.instructor_id
@@ -37,7 +37,7 @@ FROM
         FROM 
             group_lesson AS g 
         WHERE 
-            CAST(g.date AS VARCHAR(25)) LIKE '2022-03%'
+            CAST(g.date AS VARCHAR(25)) LIKE '2023-03%'
         GROUP BY month2, g.instructor_id) AS m2 
         ON id = m2.instructor_id
         LEFT JOIN
@@ -49,11 +49,11 @@ FROM
         FROM 
             ensemble AS e 
         WHERE 
-            CAST(e.date AS VARCHAR(25)) LIKE '2022-03%'
+            CAST(e.date AS VARCHAR(25)) LIKE '2023-03%'
         GROUP BY month3, e.instructor_id
         ) AS m3 
         ON id = m3.instructor_id
     ) 
     GROUP BY month, name, total
 ) as a
-WHERE total > 2;
+WHERE total > 8;

@@ -1,120 +1,120 @@
-INSERT INTO student (name,personal_number,address,level)
+INSERT INTO student (name,personal_number,address)
 VALUES
-  ('Roth Lloyd','200725220729','P.O. Box 211, 8550 Pellentesque Rd.','intermediate'),
-  ('Nicholas Woods','200639142745','678-6219 Nec, Avenue','advanced'),
-  ('Reuben David','200233611862','Ap #949-9313 Est. St.','advanced'),
-  ('Kuame Cleveland','200638562744','Ap #691-8068 Libero. St.','advanced'),
-  ('Honorato Weeks','200589115359','3191 Amet St.','beginner'),
-  ('Kirk Kelley','200781643897','4425 In, Road','beginner'),
-  ('Fritz Moran','200972572571','Ap #858-3722 Fringilla St.','beginner'),
-  ('Jena Terry','200609277344','5745 Diam Street','advanced'),
-  ('Dieter Ayala','200779886854','Ap #898-7369 Cursus Ave','intermediate'),
-  ('Jamal Conrad','200452340424','Ap #196-5743 Volutpat. Road','beginner'),
-  ('Mercedes Finch','200499749712','4738 Metus. Road','intermediate');
-INSERT INTO student (name,personal_number,address,level)
+  ('Shannon Blanchard','2006898383','Ap #512-6661 Tellus. Street'),
+  ('Briar Jackson','2009541244','Ap #940-9439 Tellus Avenue'),
+  ('Natalie Wyatt','2008231982','Ap #921-9512 Et Ave'),
+  ('Wyoming Hinton','2002232700','Ap #935-3406 Donec Rd.'),
+  ('Fatima Crosby','2003553895','Ap #556-2472 Quisque Road'),
+  ('Nell Graves','2003861651','P.O. Box 306, 8481 Aliquam Avenue'),
+  ('Lacey Weeks','2000118422','Ap #370-4685 Amet, Rd.'),
+  ('Fredericka Webb','2004718364','215-5950 Quis Av.'),
+  ('Brittany David','2003254821','Ap #425-5860 Orci Avenue'),
+  ('Roth Mills','2002164553','5890 Amet Av.'),
+  ('Nora Manning','2001521152','P.O. Box 689, 3998 Vestibulum. St.');
+INSERT INTO student (name,personal_number,address)
 VALUES
-  ('Kaitlin Wilder','200682836578','5131 Nostra, Avenue','intermediate'),
-  ('Tamekah Snider','200720033801','670-4855 Amet St.','intermediate'),
-  ('Wang Snyder','200282067514','Ap #497-5762 Nec Rd.','advanced'),
-  ('Aladdin Sampson','200630233648','Ap #840-9925 Facilisis Road','advanced'),
-  ('Scarlet Sykes','200222055244','404-5422 Tempor St.','intermediate'),
-  ('Aretha Bradford','200447876643','596-4995 Vestibulum, Ave','beginner'),
-  ('Elliott Bartlett','200254436033','335-2692 Duis Rd.','beginner'),
-  ('Elton Ball','200351074287','6550 Nulla St.','intermediate'),
-  ('Zane Newman','200283221910','6813 Cum Rd.','intermediate'),
-  ('Raya Sullivan','200883572683','Ap #934-6189 Eu Rd.','advanced'),
-  ('Malik Stafford','200724544557','956-4360 Luctus St.','advanced');
-INSERT INTO student (name,personal_number,address,level)
+  ('Arthur Douglas','2006027557','Ap #802-8098 Tincidunt Street'),
+  ('Louis Copeland','2006699501','P.O. Box 461, 8873 Semper Rd.'),
+  ('Joshua Mccray','2004487252','Ap #367-1450 Ut, Road'),
+  ('Emerald Stephens','2006119655','516-7158 Ridiculus Rd.'),
+  ('Melvin Kramer','2008478255','373 Magna. Ave'),
+  ('Adele Atkins','2000406287','5446 Diam. Rd.'),
+  ('Sopoline Acosta','2006235731','489-7570 Diam St.'),
+  ('Chava Mcintosh','2005242324','633-1975 Tempor, Avenue'),
+  ('Candice Jennings','2006520648','398-6730 Lorem Street'),
+  ('Winter Reid','2008542682','593-8504 Arcu. St.'),
+  ('Felix Mckay','2004671084','Ap #124-3110 Posuere, Rd.');
+INSERT INTO student (name,personal_number,address)
 VALUES
-  ('Karina Padilla','200640322319','477-8932 Vitae Rd.','advanced'),
-  ('Hu Lamb','200187208776','P.O. Box 952, 957 Cursus. Street','intermediate'),
-  ('Hedy Fernandez','200787588683','294-9852 Sit Street','intermediate'),
-  ('Burke Barr','200822574365','Ap #962-7335 Eget St.','intermediate'),
-  ('Aristotle Nelson','200837271332','Ap #691-1266 Erat Av.','advanced'),
-  ('Alisa Zamora','200357656316','7925 Nec Av.','beginner'),
-  ('Sharon Delgado','200264705235','Ap #927-5322 Lacus. Street','advanced'),
-  ('Tara Mcdonald','200151201454','Ap #496-8744 Tempor Ave','intermediate'),
-  ('Nathaniel Miles','200869313248','Ap #557-9072 Enim Rd.','advanced'),
-  ('Eugenia Clark','200788919544','Ap #778-9345 Dolor, St.','advanced'),
-  ('Silas Whitfield','200782634267','Ap #363-9141 At Rd.','advanced');
-INSERT INTO student (name,personal_number,address,level)
+  ('Noble Warner','2004371022','P.O. Box 247, 8849 Pellentesque Street'),
+  ('Brandon Carroll','2005551827','790-3834 Vitae, Rd.'),
+  ('Zenaida Malone','2006110517','Ap #275-565 Non, St.'),
+  ('Stone Goff','2003959547','830-9694 Nunc Ave'),
+  ('Colin Hatfield','2007471609','337-9476 Mauris Rd.'),
+  ('Mariko Merrill','2005464268','Ap #168-7905 Cursus Av.'),
+  ('Diana Workman','2003011406','8499 Nullam Av.'),
+  ('Fitzgerald Glenn','2001584121','600-630 Convallis St.'),
+  ('Christine Todd','2001031223','Ap #499-8367 At Street'),
+  ('Fletcher Berger','2009754445','P.O. Box 584, 8239 Et, Avenue'),
+  ('Oleg Harrison','2001588171','P.O. Box 927, 101 Gravida Av.');
+INSERT INTO student (name,personal_number,address)
 VALUES
-  ('Macey Sharpe','200151497322','754-4024 Vel Av.','intermediate'),
-  ('Hyatt Frost','200182408145','Ap #943-3938 Nunc Rd.','intermediate'),
-  ('Wyatt Stafford','200138614703','Ap #936-2970 Lectus. Av.','intermediate'),
-  ('Nicholas Mitchell','200410143449','179-7328 Magna. Rd.','advanced'),
-  ('Melinda English','200618557892','Ap #184-8683 Sed Road','intermediate'),
-  ('Bell Myers','200841246731','179-7851 A Rd.','intermediate'),
-  ('Cherokee Perkins','200346728979','793 Quisque Av.','advanced'),
-  ('Cassandra Johnson','200863914741','Ap #499-9402 Odio Avenue','advanced'),
-  ('Avram Huff','200563628056','6574 Nunc Ave','intermediate'),
-  ('Deacon Michael','200249214735','P.O. Box 680, 303 Sit Rd.','beginner'),
-  ('Nevada Blackburn','200123387464','865-9636 Quam Ave','advanced');
-INSERT INTO student (name,personal_number,address,level)
+  ('Cheyenne Noble','2008047330','Ap #807-3700 Ante Rd.'),
+  ('Harding Knight','2002215735','646-1933 Ipsum St.'),
+  ('Christine Hamilton','2006986539','Ap #337-9631 Eros. Road'),
+  ('Pascale Haley','2008846283','808 Aliquam Avenue'),
+  ('Zeus Montoya','2006135250','P.O. Box 373, 8808 Etiam Av.'),
+  ('Nash Christian','2004277526','471 Auctor. Road'),
+  ('Ora Allen','2000169355','P.O. Box 290, 1648 Scelerisque Street'),
+  ('Beverly Mclean','2001322518','355-2364 Nunc Street'),
+  ('Patrick Leblanc','2004606114','561-5828 Accumsan Rd.'),
+  ('Ryder Frost','2009354318','449-8469 Suscipit, St.'),
+  ('Alice Petty','2005461584','Ap #854-610 Phasellus Avenue');
+INSERT INTO student (name,personal_number,address)
 VALUES
-  ('Buckminster Mcmillan','200518984314','448-8083 Tincidunt Rd.','intermediate'),
-  ('Janna Jacobson','200872221446','8752 Etiam Avenue','beginner'),
-  ('Kimberly Mccullough','200783864250','Ap #169-6606 Phasellus Street','intermediate'),
-  ('Vanna Pope','200412239373','499-2313 Diam St.','intermediate'),
-  ('Rose Blackwell','200427133726','8813 Morbi Av.','advanced'),
-  ('Halla Cruz','200132871753','Ap #304-3999 At, Avenue','intermediate');
-INSERT INTO student (name,personal_number,address,level)
+  ('Leroy Bryan','2000128131','299-6815 Accumsan Av.'),
+  ('Ria Glenn','2006458445','P.O. Box 222, 6768 Eget, Rd.'),
+  ('Neve Fox','2006755217','Ap #782-7134 Tempus Street'),
+  ('Anastasia Payne','2008204517','651-3858 Ut St.'),
+  ('Yoshio Diaz','2007914885','820-2648 Morbi Road'),
+  ('Cheyenne Mendez','2009055490','Ap #858-8513 Quam. Road');
+INSERT INTO student (name,personal_number,address)
 VALUES
-  ('Len Bauer','200157615271','715-443 Egestas Road','intermediate'),
-  ('Whitney Hardin','200615378855','703-1642 Dui. Av.','advanced'),
-  ('Dennis Turner','200598911818','7542 Cursus. Av.','advanced'),
-  ('Cooper Hebert','200824288522','275-7551 In, Avenue','intermediate'),
-  ('Jamal Simpson','200692939547','462-4118 Mollis. Road','beginner'),
-  ('Allen Dawson','200131626373','Ap #217-165 Sed Rd.','intermediate'),
-  ('Herman Watson','200483216272','746-6400 Mi. Rd.','advanced'),
-  ('Serena Le','200100745279','Ap #255-8674 Ultrices Road','beginner'),
-  ('Rebecca Graham','200685258681','8487 Dapibus Av.','beginner'),
-  ('Samson Cobb','200546093715','336-7984 Vitae Rd.','advanced'),
-  ('Adara Hernandez','200316728359','9885 Sociis Av.','advanced');
-INSERT INTO student (name,personal_number,address,level)
+  ('Vanna Bush','2001637012','8337 A, Avenue'),
+  ('Orlando Adkins','2001900508','504-7517 Mi St.'),
+  ('Leah Morales','2002171448','Ap #121-6064 Adipiscing Avenue'),
+  ('Sean Salas','2006256701','7954 Donec Rd.'),
+  ('Noel Kline','2006724920','944-684 Massa. St.'),
+  ('Salvador Baird','2006642416','Ap #202-2996 Fusce St.'),
+  ('Duncan Clayton','2004973827','966-6423 Scelerisque Ave'),
+  ('Aline Christian','2003832425','Ap #738-9636 Odio. Ave'),
+  ('Shad Alexander','2006352471','P.O. Box 803, 3775 Venenatis Rd.'),
+  ('Genevieve Elliott','2006768347','913-614 Nibh Rd.'),
+  ('Yasir Floyd','2007730612','467-1702 Ullamcorper St.');
+INSERT INTO student (name,personal_number,address)
 VALUES
-  ('Callie Hines','200349785167','5066 Lacus. Ave','intermediate'),
-  ('Adam Oneal','200522518366','P.O. Box 886, 6662 Non Ave','beginner'),
-  ('Emi Winters','200497881495','Ap #833-2614 Mollis Ave','beginner'),
-  ('Chester Powell','200817917665','Ap #785-2670 Ac St.','advanced'),
-  ('Rhona Wise','200244212220','P.O. Box 727, 1404 Vel Rd.','intermediate'),
-  ('Ursa Kelly','200527114574','667-4189 Metus. Rd.','advanced'),
-  ('Aquila Howe','200743583845','P.O. Box 663, 321 Sed Street','intermediate'),
-  ('Alfonso Francis','200577372708','700-1972 Adipiscing Road','intermediate'),
-  ('Shaine Finley','200262922448','276-8522 Viverra. St.','advanced'),
-  ('Maryam Joyner','200467112916','882-3263 At St.','beginner'),
-  ('Sophia Potter','200463677665','8896 Sollicitudin St.','intermediate');
-INSERT INTO student (name,personal_number,address,level)
+  ('Rafael Dudley','2003021277','9412 Lectus Avenue'),
+  ('Tallulah Sanford','2006508788','Ap #249-7506 Elit Street'),
+  ('Keiko Nguyen','2006335683','442-881 Tincidunt Street'),
+  ('Walker Lane','2006414985','Ap #314-9164 Vitae Av.'),
+  ('Hall Poole','2004024338','167-361 Hendrerit Ave'),
+  ('Otto Everett','2009738686','Ap #917-6210 Magna. Road'),
+  ('Yetta Guthrie','2003771869','490-1048 Nunc St.'),
+  ('Michael Witt','2003258026','315-4807 Convallis Ave'),
+  ('Hillary Reyes','2002163647','341-6525 Consectetuer Av.'),
+  ('Germane Grant','2008686388','521-8245 Risus. St.'),
+  ('Barry Frazier','2003362624','P.O. Box 254, 3442 Amet, Street');
+INSERT INTO student (name,personal_number,address)
 VALUES
-  ('Josiah Rowland','200553245411','Ap #110-2618 Mus. Road','advanced'),
-  ('Audra Brock','200055355169','Ap #313-2605 Etiam Ave','intermediate'),
-  ('Reese Head','200704332270','P.O. Box 911, 7014 Odio. Road','beginner'),
-  ('Deirdre William','200678781789','359-1816 Ut St.','advanced'),
-  ('Jaquelyn Clarke','200322714614','P.O. Box 460, 722 Suscipit Road','beginner'),
-  ('Curran Barton','200841125241','Ap #501-3993 Donec Road','beginner'),
-  ('Ginger Ballard','200382479562','P.O. Box 970, 3526 Cubilia Road','beginner'),
-  ('Noble Carver','200718705826','Ap #621-1955 Turpis. Avenue','beginner'),
-  ('Samuel Kent','200132987386','405-2301 Ac Street','intermediate'),
-  ('Lance Cotton','200289952842','P.O. Box 856, 3155 In St.','intermediate'),
-  ('Elvis Stevens','200669767547','Ap #344-8461 Aliquam Avenue','advanced');
-INSERT INTO student (name,personal_number,address,level)
+  ('Arsenio Tyler','2005310013','990-4199 Fringilla Avenue'),
+  ('Marsden Bernard','2008438744','Ap #878-6620 Phasellus Avenue'),
+  ('Quamar Bishop','2001204141','814-8762 Ac, Ave'),
+  ('Philip Clements','2005902150','360-8325 Cursus Av.'),
+  ('Aladdin Bray','2004837671','991-5935 Ipsum Avenue'),
+  ('Mark Weber','2006571167','822-9780 Velit. Ave'),
+  ('Todd Reynolds','2006242853','766-6069 Tempus Street'),
+  ('Zelda James','2008372256','Ap #388-3066 Sapien. Ave'),
+  ('Simon Merritt','2006547224','407-8283 Eros Rd.'),
+  ('Sydnee Grimes','2004082127','813-3257 Ante St.'),
+  ('Emmanuel Vincent','2005267052','457-1566 Montes, Avenue');
+INSERT INTO student (name,personal_number,address)
 VALUES
-  ('Arsenio Harrell','200440525121','839-7074 Sem, St.','advanced'),
-  ('Colleen Key','200183888783','Ap #737-9580 A Rd.','advanced'),
-  ('Ivor Reilly','200645204161','6400 Gravida. Av.','beginner'),
-  ('Hu Chandler','200621617826','4944 Enim, Road','beginner'),
-  ('Hop Newman','200054323582','3109 Nulla Road','advanced'),
-  ('Sonia Compton','200638051307','P.O. Box 660, 5697 Gravida St.','advanced'),
-  ('Hanae Mathews','200318811961','P.O. Box 839, 5303 Ligula. Rd.','beginner'),
-  ('Kenyon Chavez','200735888821','Ap #973-8659 Aliquet Avenue','beginner'),
-  ('Chester Tillman','200583133682','Ap #892-7894 Orci, Ave','beginner'),
-  ('Sage Torres','200460177992','3616 Malesuada Rd.','advanced'),
-  ('Gillian Fowler','200161823577','P.O. Box 834, 3629 Sem Ave','intermediate');
-INSERT INTO student (name,personal_number,address,level)
+  ('Price Pearson','2002708077','601-8382 Nunc Road'),
+  ('Mark Key','2003648226','525-3521 Etiam St.'),
+  ('Clark Cunningham','2006410320','P.O. Box 361, 3890 Tellus. Rd.'),
+  ('Wylie Tyson','2005146352','Ap #145-5572 Nunc Street'),
+  ('Lionel Knight','2006993488','4633 Id Rd.'),
+  ('Beatrice Battle','2002202842','P.O. Box 769, 2673 Ante. St.'),
+  ('Theodore Fernandez','2001721778','467-7356 Est Avenue'),
+  ('Devin Boyd','2002757385','Ap #407-3858 Ipsum St.'),
+  ('Jenna Vaughan','2009780135','P.O. Box 226, 2322 Mi. Rd.'),
+  ('Vance Trevino','2005227914','225-4756 Molestie Rd.'),
+  ('Brenden Decker','2005625541','Ap #530-8726 Sem. Av.');
+INSERT INTO student (name,personal_number,address)
 VALUES
-  ('Bo Pearson','200101456163','Ap #745-7425 At Street','advanced'),
-  ('Derek Ingram','200674189081','507-1413 Justo Av.','beginner'),
-  ('Ezekiel Maldonado','200684823674','Ap #393-864 Massa. St.','intermediate'),
-  ('Finn Hughes','200261765483','261-3997 Mi Rd.','advanced'),
-  ('Ulla Livingston','200284641413','Ap #948-5028 Libero Av.','intermediate'),
-  ('Portia Carroll','200268772024','Ap #616-2740 Lacus. Rd.','intermediate');
+  ('Amery May','2008333945','P.O. Box 552, 5716 Vulputate, Ave'),
+  ('Jolene Trevino','2006584518','308-6193 Eu Av.'),
+  ('Melinda Hester','2006763936','Ap #526-4740 Quisque Rd.'),
+  ('Garrison Mckee','2007512089','Ap #217-9893 Primis Rd.'),
+  ('Chanda Cardenas','2005624544','P.O. Box 220, 4638 Velit Rd.'),
+  ('Holmes Dean','2006117496','Ap #713-2554 Magnis Avenue');

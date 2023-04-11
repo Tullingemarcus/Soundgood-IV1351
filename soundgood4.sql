@@ -59,8 +59,7 @@ CREATE TABLE student (
  student_id SERIAL NOT NULL,
  name VARCHAR(500) NOT NULL,
  personal_number VARCHAR(12) NOT NULL,
- address VARCHAR(500),
- level VARCHAR(20)
+ address VARCHAR(500)
 );
 
 ALTER TABLE student ADD CONSTRAINT PK_student PRIMARY KEY (student_id);
@@ -118,7 +117,8 @@ CREATE TABLE ensemble (
  date DATE,
  genre VARCHAR(500),
  number_of_students INT,
- instructor_id SERIAL NOT NULL
+ instructor_id SERIAL NOT NULL,
+ level VARCHAR(20)
 );
 
 ALTER TABLE ensemble ADD CONSTRAINT PK_ensemble PRIMARY KEY (ensemble_id);
@@ -130,7 +130,8 @@ CREATE TABLE group_lesson (
  address VARCHAR(500),
  date DATE,
  number_of_students INT,
- instructor_id SERIAL NOT NULL
+ instructor_id SERIAL NOT NULL,
+ level VARCHAR(20)
 );
 
 ALTER TABLE group_lesson ADD CONSTRAINT PK_group_lesson PRIMARY KEY (group_lesson_id);
@@ -189,7 +190,8 @@ CREATE TABLE individual_lesson (
  lesson_id INT NOT NULL,
  time TIME(10),
  address VARCHAR(500),
- date DATE
+ date DATE,
+ level VARCHAR(20)
 );
 
 ALTER TABLE individual_lesson ADD CONSTRAINT PK_individual_lesson PRIMARY KEY (lesson_id);

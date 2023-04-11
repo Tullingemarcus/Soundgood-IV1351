@@ -1,4 +1,4 @@
-EXPLAIN
+/*EXPLAIN*/
 SELECT 
     amount_of_siblings, COUNT(amount_of_siblings) as number_of_students
 FROM
